@@ -1,146 +1,146 @@
-name,army,health,speed,attack,defense,min_damage,max_damage,gold_cost,resource_cost,resource_type,num_shots,can_fly,has_special_ability,tier_level,is_upgraded_form,upgrade_id
-Goblin,Stronghold,5,5,4,2,1,2,40,0,,0,0,0,1,0,8
-Wolf Rider,Stronghold,10,6,7,5,2,4,100,0,,0,0,0,2,0,9
-Orc,Stronghold,15,4,8,4,2,5,150,0,,12,0,0,3,0,10
-Ogre,Stronghold,40,4,13,7,6,12,300,0,,0,0,0,4,0,11
-Roc,Stronghold,60,7,13,11,11,15,600,0,,0,1,0,5,0,12
-Cyclops,Stronghold,70,6,15,12,16,20,750,0,,16,0,1,6,0,13
-Behemoth,Stronghold,160,6,17,17,30,50,1500,0,,0,0,1,7,0,14
-Hobgoblin,Stronghold,5,7,5,3,1,2,50,0,,0,0,0,1,1,1
-Wolf Raider,Stronghold,10,8,8,5,3,4,140,0,,0,0,1,2,1,2
-Orc Chieftain,Stronghold,20,5,8,4,2,5,165,0,,24,0,0,3,1,3
-Ogre Mage,Stronghold,60,5,13,7,6,12,400,0,,0,0,1,4,1,4
-Thunderbird,Stronghold,60,11,13,11,11,15,700,0,,0,10,1,5,1,5
-Cyclops King,Stronghold,70,8,17,13,16,20,1100,0,,24,0,1,6,1,6
-Ancient Behemoth,Stronghold,300,9,19,19,30,50,3000,1,crystal,0,0,1,7,1,7
-Gremlin,Tower,4,4,3,3,1,2,30,0,,0,0,0,1,0,22
-Stone Gargoyle,Tower,16,6,6,6,2,3,130,0,,0,1,0,2,0,23
-Stone Golem,Tower,30,3,7,10,4,5,150,0,,0,0,1,3,0,24
-Mage,Tower,25,5,11,8,7,9,350,0,,24,0,1,4,0,25
-Genie,Tower,40,7,12,12,13,16,550,0,,0,1,1,5,0,26
-Naga,Tower,110,5,16,13,20,20,1100,0,,0,0,1,6,0,27
-Giant,Tower,150,7,19,16,40,60,2000,1,gems,0,0,1,7,0,28
-Master Gremlin,Tower,4,5,4,4,1,2,40,0,,8,0,1,1,1,15
-Obsidian Gargoyle,Tower,16,9,7,7,2,3,160,0,,0,1,0,2,1,16
-Iron Golem,Tower,35,5,9,10,4,5,200,0,,0,0,1,3,1,17
-Arch Mage,Tower,30,7,12,9,7,9,450,0,,24,0,1,4,1,18
-Master Genie,Tower,40,11,12,12,13,16,600,0,,0,1,1,5,1,19
-Naga Queen,Tower,110,7,16,13,30,30,1600,0,,0,0,1,6,1,20
-Titan,Tower,300,11,24,24,40,60,5000,2,gems,24,0,1,7,1,21
-Pixie,Conflux,3,7,2,2,1,2,25,0,,0,1,0,1,0,36
-Air Elemental,Conflux,25,7,9,9,2,8,250,0,,0,0,1,2,0,37
-Water Elemental,Conflux,30,5,8,10,3,7,300,0,,0,0,1,3,0,38
-Fire Elemental,Conflux,35,6,10,8,4,6,350,0,,0,0,1,4,0,39
-Earth Elemental,Conflux,40,4,10,10,4,8,400,0,,0,0,1,5,0,40
-Psychic Elemental,Conflux,75,7,15,13,10,20,750,0,,0,0,1,6,0,41
-Firebird,Conflux,150,15,18,18,30,40,1500,0,,0,1,1,7,0,42
-Sprite,Conflux,3,9,2,2,1,3,30,0,,0,1,1,1,1,29
-Storm Elemental,Conflux,25,8,9,9,2,8,275,0,,24,0,1,2,1,30
-Ice Elemental,Conflux,30,6,8,10,3,7,375,0,,24,0,1,3,1,31
-Energy Elemental,Conflux,35,8,12,8,4,6,400,0,,0,1,1,4,1,32
-Magma Elemental,Conflux,40,6,11,11,6,10,500,0,,0,0,1,5,1,33
-Magic Elemental,Conflux,80,9,15,13,15,25,800,0,,0,0,1,6,1,34
-Phoenix,Conflux,200,21,21,18,30,40,2000,1,mercury,0,1,1,7,1,35
-Imp,Inferno,4,5,2,3,1,2,50,0,,0,0,0,1,0,50
-Gog,Inferno,13,4,6,4,2,4,125,0,,12,0,0,2,0,51
-Hell Hound,Inferno,25,7,10,6,2,7,200,0,,0,0,0,3,0,52
-Demon,Inferno,35,5,10,10,7,9,250,0,,0,0,0,4,0,53
-Pit Fiend,Inferno,45,6,13,13,13,17,500,0,,0,0,0,5,0,54
-Efreeti,Inferno,90,9,16,12,16,24,900,0,,0,1,1,6,0,55
-Devil,Inferno,160,11,19,21,30,40,2700,1,mercury,0,1,1,7,0,56
-Familiar,Inferno,4,7,4,4,1,2,60,0,,0,0,1,1,1,43
-Magog,Inferno,13,6,7,4,2,4,175,0,,24,0,1,2,1,44
-Cerberus,Inferno,25,8,10,8,2,5,250,0,,0,0,1,3,1,45
-Horned Demon,Inferno,40,6,10,10,7,9,270,0,,0,0,0,4,1,46
-Pit Lord,Inferno,45,7,13,13,13,17,700,0,,0,0,1,5,1,47
-Efreet Sultan,Inferno,90,13,16,14,16,24,1100,0,,0,1,1,6,1,48
-Arch Devil,Inferno,200,17,26,28,30,40,4500,2,mercury,0,1,1,7,1,49
-Skeleton,Necropolis,6,4,5,4,1,3,60,0,,0,0,1,1,0,64
-Walking Dead,Necropolis,15,3,5,5,2,3,100,0,,0,0,1,2,0,65
-Wight,Necropolis,18,5,7,7,3,5,200,0,,0,1,1,3,0,66
-Vampire,Necropolis,30,6,10,9,5,8,350,0,,0,1,1,4,0,67
-Lich,Necropolis,30,6,13,10,11,13,550,0,,0,0,1,5,0,68
-Black Knight,Necropolis,120,7,16,16,15,30,1200,0,,0,0,1,6,0,69
-Bone Dragon,Necropolis,150,9,17,15,25,50,1800,0,,0,1,1,7,0,70
-Skeleton Warrior,Necropolis,6,5,6,6,1,3,70,0,,0,0,1,1,1,57
-Zombie,Necropolis,20,4,5,5,2,3,125,0,,0,0,1,2,1,58
-Wraith,Necropolis,18,7,7,7,3,5,230,0,,0,1,1,3,1,59
-Vampire Lord,Necropolis,40,9,10,10,5,8,500,0,,0,1,1,4,1,60
-Power Lich,Necropolis,40,7,13,10,11,15,600,0,,24,0,1,5,1,61
-Dread Knight,Necropolis,120,9,18,18,15,30,1500,0,,0,0,1,6,1,62
-Ghost Dragon,Necropolis,200,14,19,17,25,50,3000,1,mercury,0,1,1,7,1,63
-Centaur,Rampart,8,6,5,3,2,3,70,0,,0,0,0,1,0,78
-Dwarf,Rampart,20,3,6,7,2,4,120,0,,0,0,1,2,0,79
-Wood Elf,Rampart,15,6,9,5,3,5,200,0,,24,0,0,3,0,80
-Pegasus,Rampart,30,8,9,8,5,9,250,0,,0,1,1,4,0,81
-Dendroid Guard,Rampart,55,3,9,12,10,14,350,0,,0,0,1,5,0,82
-Unicorn,Rampart,90,7,15,14,18,22,850,0,,0,0,1,6,0,83
-Green Dragon,Rampart,180,10,18,18,40,50,2400,1,crystal,0,1,1,7,0,84
-Centaur Captain,Rampart,10,8,6,3,2,3,90,0,,0,0,0,1,1,71
-Battle Dwarf,Rampart,20,5,7,7,2,4,150,0,,0,0,1,2,1,72
-Grand Elf,Rampart,15,7,9,5,3,5,225,0,,24,0,1,3,1,73
-Silver Pegasus,Rampart,30,12,9,10,5,9,275,0,,0,1,1,4,1,74
-Dendroid Soldier,Rampart,65,4,9,12,10,14,425,0,,0,0,1,5,1,75
-War Unicorn,Rampart,110,9,15,14,18,22,950,0,,0,0,1,6,1,76
-Gold Dragon,Rampart,250,16,27,27,40,50,4000,2,crystal,0,1,1,7,1,77
-Pikeman,Castle,10,4,4,5,1,3,60,0,,0,0,0,1,0,92
-Archer,Castle,10,4,6,3,2,3,100,0,,12,0,0,2,0,93
-Griffin,Castle,25,6,8,8,3,6,200,0,,0,1,1,3,0,94
-Swordsman,Castle,35,5,10,12,6,9,300,0,,0,0,0,4,0,95
-Monk,Castle,30,5,12,7,10,12,400,0,,12,0,0,5,0,96
-Cavalier,Castle,100,7,15,15,15,25,1000,0,,0,0,1,6,0,97
-Angel,Castle,200,12,20,20,50,50,3000,0,,0,1,1,7,0,98
-Halberdier,Castle,10,5,6,5,2,3,75,0,,0,0,0,1,1,85
-Marksman,Castle,10,6,6,3,2,3,150,0,,24,0,1,2,1,86
-Royal Griffin,Castle,25,9,9,9,3,6,240,0,,0,1,1,3,1,87
-Crusader,Castle,35,6,12,12,7,10,400,0,,0,0,1,4,1,88
-Zealot,Castle,30,7,12,10,10,12,450,0,,24,0,1,5,1,89
-Champion,Castle,100,9,16,16,20,25,1200,0,,0,0,1,6,1,90
-Archangel,Castle,250,18,30,30,50,50,5000,0,,0,1,1,7,1,91
-Troglodyte,Dungeon,5,4,4,3,1,3,50,0,,0,0,1,1,0,106
-Harpy,Dungeon,14,6,6,5,1,4,130,0,,0,1,1,2,0,107
-Beholder,Dungeon,22,5,9,7,3,5,250,0,,12,0,1,3,0,108
-Medusa,Dungeon,25,5,9,9,6,8,300,0,,4,0,1,4,0,109
-Minotaur,Dungeon,50,6,14,12,12,20,500,0,,0,0,1,5,0,110
-Manticore,Dungeon,80,7,15,13,14,20,850,0,,0,1,0,6,0,111
-Red Dragon,Dungeon,180,11,19,19,40,50,2500,1,sulfur,0,1,1,7,0,112
-Infernal Troglodyte,Dungeon,6,5,5,4,1,3,65,0,,0,0,1,1,1,99
-Harpy Hag,Dungeon,14,9,6,6,1,4,170,0,,0,1,1,2,1,100
-Evil Eye,Dungeon,22,7,10,8,3,5,280,0,,24,0,1,3,1,101
-Medusa Queen,Dungeon,30,6,10,10,6,8,330,0,,8,0,1,4,1,102
-Minotaur King,Dungeon,50,8,15,15,12,20,575,0,,0,0,1,5,1,103
-Scorpicore,Dungeon,80,11,16,14,14,20,1050,0,,0,1,1,6,1,104
-Black Dragon,Dungeon,300,15,25,25,40,50,4000,2,sulfur,0,1,1,7,1,105
-Gnoll,Fortress,6,4,3,5,2,3,50,0,,0,0,0,1,0,120
-Lizardman,Fortress,12,4,5,6,1,3,110,0,,12,0,0,2,0,121
-Serpent Fly,Fortress,20,9,6,8,2,5,220,0,,0,1,1,3,0,122
-Basilisk,Fortress,35,5,11,11,6,10,325,0,,0,0,1,4,0,123
-Gorgon,Fortress,70,5,10,14,12,16,525,0,,0,0,0,5,0,124
-Wyvern,Fortress,70,7,14,14,14,18,800,0,,0,1,0,6,0,125
-Hydra,Fortress,175,5,16,18,25,45,2200,0,,0,0,1,7,0,126
-Gnoll Marauder,Fortress,6,5,4,6,2,3,70,0,,0,0,0,1,1,113
-Lizard Warrior,Fortress,12,5,5,7,2,3,130,0,,24,0,0,2,1,114
-Dragon Fly,Fortress,20,13,6,8,2,5,240,0,,0,1,1,3,1,115
-Greater Basilisk,Fortress,40,7,12,12,6,10,400,0,,0,0,1,4,1,116
-Mighty Gorgon,Fortress,70,6,11,16,12,16,600,0,,0,0,1,5,1,117
-Wyvern Monarch,Fortress,70,11,14,14,18,22,1100,0,,0,1,1,6,1,118
-Chaos Hydra,Fortress,250,7,18,20,25,45,3500,1/sul,sulfur,0,0,1,7,1,119
-Peasant,Neutral,1,3,1,1,1,1,10,0,,0,0,0,-1,0,-1
-Halfling,Neutral,4,5,4,2,1,3,40,0,,24,0,1,-1,0,-1
-Rogue,Neutral,10,6,8,3,2,4,100,0,,0,0,1,-1,0,-1
-Boar,Neutral,15,6,6,5,2,3,150,0,,0,0,0,-1,0,-1
-Nomad,Neutral,30,7,9,8,2,6,200,0,,0,0,1,-1,0,-1
-Mummy,Neutral,30,5,7,7,3,5,300,0,,0,0,1,-1,0,-1
-Troll,Neutral,40,7,14,7,10,15,500,0,,0,0,1,-1,0,-1
-Sharpshooter,Neutral,15,9,12,10,8,10,400,0,,32,0,1,-1,0,-1
-Enchanter,Neutral,30,9,17,12,14,14,750,0,,32,0,1,-1,0,-1
-Gold Golem,Neutral,50,5,11,12,8,10,500,0,,0,0,1,-1,0,-1
-Diamond Golem,Neutral,60,5,13,12,10,14,750,0,,0,0,1,-1,0,-1
-Catapult,Neutral,1000,0,10,10,0,0,0,0,,24,0,0,-1,0,-1
-Ballista,Neutral,250,0,10,10,2,3,2500,0,,24,0,0,-1,0,-1
-First Aid Tent,Neutral,75,0,0,0,0,0,750,0,,0,0,0,-1,0,-1
-Ammo Cart,Neutral,100,0,0,5,0,0,1000,0,,0,0,0,-1,0,-1
-Faerie Dragon,Neutral,500,15,20,20,20,30,10000,8,gems,0,1,1,-1,0,-1
-Rust Dragon,Neutral,750,17,30,30,50,50,15000,14,sulfur,0,1,1,-1,0,-1
-Crystal Dragon,Neutral,800,16,40,40,60,75,20000,10,crystal,0,0,1,-1,0,-1
-Azure Dragon,Neutral,1000,19,50,50,70,80,30000,20,mercury,0,1,1,-1,0,-1
+name,army,health,speed,attack,defense,min_damage,max_damage,special,gold_cost,resource_cost,resource_type,num_shots,can_fly,tier_level,is_upgraded_form,upgrade_id
+Goblin,Stronghold,5,5,4,2,1,2,,40,0,,0,0,1,0,8
+Hobgoblin,Stronghold,5,7,5,3,1,2,,50,0,,0,0,1,1,1
+Wolf Rider,Stronghold,10,6,7,5,2,4,,100,0,,0,0,2,0,9
+Wolf Raider,Stronghold,10,8,8,5,3,4,"Double attack",140,0,,0,0,2,1,2
+Orc,Stronghold,15,4,8,4,2,5,,150,0,,12,0,3,0,10
+Orc Chieftain,Stronghold,20,5,8,4,2,5,,165,0,,24,0,3,1,3
+Ogre,Stronghold,40,4,13,7,6,12,,300,0,,0,0,4,0,11
+Ogre Mage,Stronghold,60,5,13,7,6,12,"Cast Bloodlust x3",400,0,,0,0,4,1,4
+Roc,Stronghold,60,7,13,11,11,15,,600,0,,0,1,5,0,12
+Thunderbird,Stronghold,60,11,13,11,11,15,"Lightning strike",700,0,,0,10,5,1,5
+Cyclops,Stronghold,70,6,15,12,16,20,"Can attack siege walls",750,0,,16,0,6,0,13
+Cyclops King,Stronghold,70,8,17,13,16,20,"Can attack siege walls",1100,0,,24,0,6,1,6
+Behemoth,Stronghold,160,6,17,17,30,50,"Defense -40% to enemy target",1500,0,,0,0,7,0,14
+Ancient Behemoth,Stronghold,300,9,19,19,30,50,"Defense -80% to enemy target",3000,1,crystal,0,0,7,1,7
+Gremlin,Tower,4,4,3,3,1,2,,30,0,,0,0,1,0,22
+Master Gremlin,Tower,4,5,4,4,1,2,,40,0,,8,0,1,1,15
+Stone Gargoyle,Tower,16,6,6,6,2,3,"Unliving",130,0,,0,1,2,0,23
+Obsidian Gargoyle,Tower,16,9,7,7,2,3,"Unliving",160,0,,0,1,2,1,16
+Stone Golem,Tower,30,3,7,10,4,5,"Unliving, Damage resistance +50%",150,0,,0,0,3,0,24
+Iron Golem,Tower,35,5,9,10,4,5,"Unliving, Damage resistance +75%",200,0,,0,0,3,1,17
+Mage,Tower,25,5,11,8,7,9,"No melee penalty, Spells cost -2 sp",350,0,,24,0,4,0,25
+Arch Mage,Tower,30,7,12,9,7,9,"No melee penalty, No obstacle penalty, Spells cost -2 sp",450,0,,24,0,4,1,18
+Genie,Tower,40,7,12,12,13,16,"Hates Efreets",550,0,,0,1,5,0,26
+Master Genie,Tower,40,11,12,12,13,16,"Spellcaster, Hates Efreets",600,0,,0,1,5,1,19
+Naga,Tower,110,5,16,13,20,20,"No enemy retaliation",1100,0,,0,0,6,0,27
+Naga Queen,Tower,110,7,16,13,30,30,"No enemy retaliation",1600,0,,0,0,6,1,20
+Giant,Tower,150,7,19,16,40,60,"Resists mind spells",2000,1,gems,0,0,7,0,28
+Titan,Tower,300,11,24,24,40,60,"No melee penalty, Resists mind spells, Hates Black Dragons",5000,2,gems,24,0,7,1,21
+Pixie,Conflux,3,7,2,2,1,2,,25,0,,0,1,1,0,36
+Sprite,Conflux,3,9,2,2,1,3,"No enemy retaliation",30,0,,0,1,1,1,29
+Air Elemental,Conflux,25,7,9,9,2,8,"Elemental, Lightning vulnerability, Immune to Meteor Shower",250,0,,0,0,2,0,37
+Storm Elemental,Conflux,25,8,9,9,2,8,"Elemental, Lightning vulnerability, Immune to Meteor Shower, Spellcaster",275,0,,24,0,2,1,30
+Water Elemental,Conflux,30,5,8,10,3,7,"Elemental, Fire vulnerability, Ice immunity",300,0,,0,0,3,0,38
+Ice Elemental,Conflux,30,6,8,10,3,7,"Elemental, Fire vulnerability, Ice immunity, Spellcaster",375,0,,24,0,3,1,31
+Fire Elemental,Conflux,35,6,10,8,4,6,"Elemental, Ice vulnerability, Fire immunity",350,0,,0,0,4,0,39
+Energy Elemental,Conflux,35,8,12,8,4,6,"Elemental, Ice vulnerability, Fire immunity, Spellcaster",400,0,,0,1,4,1,32
+Earth Elemental,Conflux,40,4,10,10,4,8,"Elemental, Meteor Shower vulnerability, Lightning immunity",400,0,,0,0,5,0,40
+Magma Elemental,Conflux,40,6,11,11,6,10,"Elemental, Meteor Shower vulnerability, Lightning immunity, Spellcaster",500,0,,0,0,5,1,33
+Psychic Elemental,Conflux,75,7,15,13,10,20,"Elemental, No enemy retaliation, Attack adjacent hexes",750,0,,0,0,6,0,41
+Magic Elemental,Conflux,80,9,15,13,15,25,"Elemental, No enemy retaliation, Attack adjacent hexes, Spell immunity",800,0,,0,0,6,1,34
+Firebird,Conflux,150,15,18,18,30,40,"Breath attack, Immune to fire spells",1500,0,,0,1,7,0,42
+Phoenix,Conflux,200,21,21,18,30,40,"Breath attack, Immune to fire spells, Rebirth",2000,1,mercury,0,1,7,1,35
+Imp,Inferno,4,5,2,3,1,2,,50,0,,0,0,1,0,50
+Familiar,Inferno,4,7,4,4,1,2,"Magic channel",60,0,,0,0,1,1,43
+Gog,Inferno,13,4,6,4,2,4,,125,0,,12,0,2,0,51
+Magog,Inferno,13,6,7,4,2,4,"Fireball attack",175,0,,24,0,2,1,44
+Hell Hound,Inferno,25,7,10,6,2,7,,200,0,,0,0,3,0,52
+Cerberus,Inferno,25,8,10,8,2,5,"No enemy retaliation, 3-headed attack",250,0,,0,0,3,1,45
+Demon,Inferno,35,5,10,10,7,9,,250,0,,0,0,4,0,53
+Horned Demon,Inferno,40,6,10,10,7,9,,270,0,,0,0,4,1,46
+Pit Fiend,Inferno,45,6,13,13,13,17,,500,0,,0,0,5,0,54
+Pit Lord,Inferno,45,7,13,13,13,17,"Summon Demons",700,0,,0,0,5,1,47
+Efreeti,Inferno,90,9,16,12,16,24,,900,0,,0,1,6,0,55
+Efreet Sultan,Inferno,90,13,16,14,16,24,"Fire shield, Resist fire, Hates Genies",1100,0,,0,1,6,1,48
+Devil,Inferno,160,11,19,21,30,40,"No enemy retaliation, Luck -1, Hates Angels",2700,1,mercury,0,1,7,0,56
+Arch Devil,Inferno,200,17,26,28,30,40,"No enemy retaliation, Luck -1, Hates Angels",4500,2,mercury,0,1,7,1,49
+Skeleton,Necropolis,6,4,5,4,1,3,"Undead",60,0,,0,0,1,0,64
+Skeleton Warrior,Necropolis,6,5,6,6,1,3,"Undead",70,0,,0,0,1,1,57
+Walking Dead,Necropolis,15,3,5,5,2,3,"Undead",100,0,,0,0,2,0,65
+Zombie,Necropolis,20,4,5,5,2,3,"Undead, Disease",125,0,,0,0,2,1,58
+Wight,Necropolis,18,5,7,7,3,5,"Undead, Regeneration",200,0,,0,1,3,0,66
+Wraith,Necropolis,18,7,7,7,3,5,"Undead, Regeneration, Mana drain",230,0,,0,1,3,1,59
+Vampire,Necropolis,30,6,10,9,5,8,"Undead, No retaliation",350,0,,0,1,4,0,67
+Vampire Lord,Necropolis,40,9,10,10,5,8,"Undead, No retaliation, Life drain",500,0,,0,1,4,1,60
+Lich,Necropolis,30,6,13,10,11,13,"Undead, Death cloud",550,0,,0,0,5,0,68
+Power Lich,Necropolis,40,7,13,10,11,15,"Undead, Death cloud",600,0,,24,0,5,1,61
+Black Knight,Necropolis,120,7,16,16,15,30,"Undead, Curse",1200,0,,0,0,6,0,69
+Dread Knight,Necropolis,120,9,18,18,15,30,"Undead, Curse, Death blow",1500,0,,0,0,6,1,62
+Bone Dragon,Necropolis,150,9,17,15,25,50,"Undead, Morale -1",1800,0,,0,1,7,0,70
+Ghost Dragon,Necropolis,200,14,19,17,25,50,"Undead, Morale -1, Aging",3000,1,mercury,0,1,7,1,63
+Centaur,Rampart,8,6,5,3,2,3,,70,0,,0,0,1,0,78
+Centaur Captain,Rampart,10,8,6,3,2,3,,90,0,,0,0,1,1,71
+Dwarf,Rampart,20,3,6,7,2,4,"Magic resistance +20%",120,0,,0,0,2,0,79
+Battle Dwarf,Rampart,20,5,7,7,2,4,"Magic resistance +40%",150,0,,0,0,2,1,72
+Wood Elf,Rampart,15,6,9,5,3,5,,200,0,,24,0,3,0,80
+Grand Elf,Rampart,15,7,9,5,3,5,"Double attack",225,0,,24,0,3,1,73
+Pegasus,Rampart,30,8,9,8,5,9,"Magic damper",250,0,,0,1,4,0,81
+Silver Pegasus,Rampart,30,12,9,10,5,9,"Magic damper",275,0,,0,1,4,1,74
+Dendroid Guard,Rampart,55,3,9,12,10,14,"Binding",350,0,,0,0,5,0,82
+Dendroid Soldier,Rampart,65,4,9,12,10,14,"Binding",425,0,,0,0,5,1,75
+Unicorn,Rampart,90,7,15,14,18,22,"Blind, Aura of resistance +20%",850,0,,0,0,6,0,83
+War Unicorn,Rampart,110,9,15,14,18,22,"Blind, Aura of resistance +20%",950,0,,0,0,6,1,76
+Green Dragon,Rampart,180,10,18,18,40,50,"Breath attack, Resist lvl 1-3 spells",2400,1,crystal,0,1,7,0,84
+Gold Dragon,Rampart,250,16,27,27,40,50,"Breath attack, Resist lvl 1-4 spells",4000,2,crystal,0,1,7,1,77
+Pikeman,Castle,10,4,4,5,1,3,"Immune to jousting",60,0,,0,0,1,0,92
+Halberdier,Castle,10,5,6,5,2,3,"Immune to jousting",75,0,,0,0,1,1,85
+Archer,Castle,10,4,6,3,2,3,,100,0,,12,0,2,0,93
+Marksman,Castle,10,6,6,3,2,3,"Double attack",150,0,,24,0,2,1,86
+Griffin,Castle,25,6,8,8,3,6,"Two retaliations",200,0,,0,1,3,0,94
+Royal Griffin,Castle,25,9,9,9,3,6,"Unlimited retaliations",240,0,,0,1,3,1,87
+Swordsman,Castle,35,5,10,12,6,9,,300,0,,0,0,4,0,95
+Crusader,Castle,35,6,12,12,7,10,"Double attack",400,0,,0,0,4,1,88
+Monk,Castle,30,5,12,7,10,12,,400,0,,12,0,5,0,96
+Zealot,Castle,30,7,12,10,10,12,"No melee penalty",450,0,,24,0,5,1,89
+Cavalier,Castle,100,7,15,15,15,25,"Jousting",1000,0,,0,0,6,0,97
+Champion,Castle,100,9,16,16,20,25,"Jousting",1200,0,,0,0,6,1,90
+Angel,Castle,200,12,20,20,50,50,"Hates Devils",3000,0,,0,1,7,0,98
+Archangel,Castle,250,18,30,30,50,50,"Hates Devils, Resurrection, Morale +1",5000,0,,0,1,7,1,91
+Troglodyte,Dungeon,5,4,4,3,1,3,"Immune to Blinding",50,0,,0,0,1,0,106
+Infernal Troglodyte,Dungeon,6,5,5,4,1,3,"Immune to Blinding",65,0,,0,0,1,1,99
+Harpy,Dungeon,14,6,6,5,1,4,"Strike and return",130,0,,0,1,2,0,107
+Harpy Hag,Dungeon,14,9,6,6,1,4,"Strike and return, No enemy retaliation",170,0,,0,1,2,1,100
+Beholder,Dungeon,22,5,9,7,3,5,"No melee penalty",250,0,,12,0,3,0,108
+Evil Eye,Dungeon,22,7,10,8,3,5,"No melee penalty",280,0,,24,0,3,1,101
+Medusa,Dungeon,25,5,9,9,6,8,"No melee penalty, Petrify",300,0,,4,0,4,0,109
+Medusa Queen,Dungeon,30,6,10,10,6,8,"No melee penalty, Petrify",330,0,,8,0,4,1,102
+Minotaur,Dungeon,50,6,14,12,12,20,"Morale +1",500,0,,0,0,5,0,110
+Minotaur King,Dungeon,50,8,15,15,12,20,"Morale +1",575,0,,0,0,5,1,103
+Manticore,Dungeon,80,7,15,13,14,20,,850,0,,0,1,6,0,111
+Scorpicore,Dungeon,80,11,16,14,14,20,"Paralyze",1050,0,,0,1,6,1,104
+Red Dragon,Dungeon,180,11,19,19,40,50,"Breath attack, Resist lvl 1-3 spells",2500,1,sulfur,0,1,7,0,112
+Black Dragon,Dungeon,300,15,25,25,40,50,"Breath attack, Resist all spells, Hates Giants and Titans",4000,2,sulfur,0,1,7,1,105
+Gnoll,Fortress,6,4,3,5,2,3,,50,0,,0,0,1,0,120
+Gnoll Marauder,Fortress,6,5,4,6,2,3,,70,0,,0,0,1,1,113
+Lizardman,Fortress,12,4,5,6,1,3,,110,0,,12,0,2,0,121
+Lizard Warrior,Fortress,12,5,5,7,2,3,,130,0,,24,0,2,1,114
+Serpent Fly,Fortress,20,9,6,8,2,5,"Dispel",220,0,,0,1,3,0,122
+Dragon Fly,Fortress,20,13,6,8,2,5,"Dispel, Weakness",240,0,,0,1,3,1,115
+Basilisk,Fortress,35,5,11,11,6,10,"Petrify",325,0,,0,0,4,0,123
+Greater Basilisk,Fortress,40,7,12,12,6,10,"Petrify",400,0,,0,0,4,1,116
+Gorgon,Fortress,70,5,10,14,12,16,,525,0,,0,0,5,0,124
+Mighty Gorgon,Fortress,70,6,11,16,12,16,"Death stare 10% chance/unit",600,0,,0,0,5,1,117
+Wyvern,Fortress,70,7,14,14,14,18,,800,0,,0,1,6,0,125
+Wyvern Monarch,Fortress,70,11,14,14,18,22,"Poison",1100,0,,0,1,6,1,118
+Hydra,Fortress,175,5,16,18,25,45,"No enemy retaliation, Attack all adjacent enemies",2200,0,,0,0,7,0,126
+Chaos Hydra,Fortress,250,7,18,20,25,45,"No enemy retaliation, Attack all adjacent enemies",3500,1/sul,sulfur,0,0,7,1,119
+Peasant,Neutral,1,3,1,1,1,1,,10,0,,0,0,-1,0,-1
+Halfling,Neutral,4,5,4,2,1,3,"Ranged, Luck +1",40,0,,24,0,-1,0,-1
+Boar,Neutral,15,6,6,5,2,3,,150,0,,0,0,-1,0,-1
+Mummy,Neutral,30,5,7,7,3,5,"Undead, Curse",300,0,,0,0,-1,0,-1
+Rogue,Neutral,10,6,8,3,2,4,"Spying",100,0,,0,0,-1,0,-1
+Nomad,Neutral,30,7,9,8,2,6,"Sandwalker",200,0,,0,0,-1,0,-1
+Sharpshooter,Neutral,15,9,12,10,8,10,"Ranged, No range and obstacle penalty",400,0,,32,0,-1,0,-1
+Gold Golem,Neutral,50,5,11,12,8,10,"Unliving, Damage resistance +85%",500,0,,0,0,-1,0,-1
+Diamond Golem,Neutral,60,5,13,12,10,14,"Unliving, Damage resistance +95%",750,0,,0,0,-1,0,-1
+Troll,Neutral,40,7,14,7,10,15,Regeneration,500,0,,0,0,-1,0,-1
+Enchanter,Neutral,30,9,17,12,14,14,"Ranged, No melee, Spellcaster",750,0,,32,0,-1,0,-1
+Faerie Dragon,Neutral,500,15,20,20,20,30,"Flying, Dragon, Spellcaster, Magic Mirror",10000,8,gems,0,1,-1,0,-1
+Rust Dragon,Neutral,750,17,30,30,50,50,"Flying, Dragon, Acid breath",15000,14,sulfur,0,1,-1,0,-1
+Crystal Dragon,Neutral,800,16,40,40,60,75,"Dragon, Crystal generation, Resistance _20%, Unliving",20000,10,crystal,0,0,-1,0,-1
+Azure Dragon,Neutral,1000,19,50,50,70,80,"Flying, Dragon, Breath, Fear, Resist lvl 1-3 spells, Resist Fear",30000,20,mercury,0,1,-1,0,-1
+Catapult,Neutral,1000,0,10,10,0,0,,0,0,,24,0,-1,0,-1
+Ballista,Neutral,250,0,10,10,2,3,,2500,0,,24,0,-1,0,-1
+First Aid Tent,Neutral,75,0,0,0,0,0,,750,0,,0,0,-1,0,-1
+Ammo Cart,Neutral,100,0,0,5,0,0,,1000,0,,0,0,-1,0,-1
