@@ -17,12 +17,12 @@ CREATE TABLE creature (
 	defense INT,
 	min_damage INT,
 	max_damage INT,
+	special VARCHAR(100),
 	gold_cost INT,
 	resource_cost INT,
 	resource_type VARCHAR(20),
 	num_shots INT,
 	can_fly BOOLEAN,
-	has_special_ability BOOLEAN,
 	tier_level INT,
 	is_upgraded_form BOOLEAN,
 	upgrade_id INT,
@@ -47,7 +47,7 @@ CREATE TABLE population (
 );
 
 -- Load creature CSV file into database
-LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, gold_cost, resource_cost, resource_type, num_shots, can_fly, has_special_ability, tier_level, is_upgraded_form, upgrade_id);
+LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
 
 -- Load resources CSV file into database
 LOAD DATA LOCAL INFILE 'resource.csv' INTO TABLE resource FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, abbrev);
