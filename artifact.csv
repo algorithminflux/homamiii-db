@@ -1,0 +1,20 @@
+name,slot,gold_cost,effect,set
+Admiral's Hat,Helm (2 slots),125000,"Hero sea movement, No penalty for boat boarding/diembarking, Summon Boat Spell, Scuttle Boat Spell, Movement converted between land and sea, Protects army in whirlpools",Admiral's Hat
+Ambassador's Sash,Shoulder,25000,Surrendering cost is reduced,
+Amulet of the Undertaker,Necklace,10000,Necromancy +5%,Cloak of the Undead King
+Angel Feather Arrows,Misc,30000,Archery +15%,Bow of the Sharpshooter
+Angel Wings,Shoulder,100000,Fly Spell permanent,
+Angelic Alliance,Weapon (6 slots),420000,"All primary skills +21, No alignment penalty, Prayer in combat",Angelic Alliance
+Armageddon's Blade,Weapon (3 slots),250000,"Attack +3, Defense +3, Knowledge +6, Spell Power +3, Armageddon Spell expert, Immune to Armageddon",Armageddon's Blade
+Armor of the Damned,Torso (4 slots),60000,"Attack +3, Defense +3, Spell Power +2, Knowledge +2, Following Spells on enemies: Slow, Curse, Weakness, Misfortune",
+Armor of Wonder,Torso (4 slots),20000,All primary skills +1,Angelic Alliance
+Arms of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 5th lvl units by 2 per week in that town",
+Badge of Courage,Misc,5000,"Morale +1, Immune to Mind spells",
+Bird of Perception,Misc,5000,Eagle Eye +5%,
+Blackshard of the Dead Knight,Weapon,15000,Attack +3,Armor of the Damned
+Boots of Levitation,Boots,50000,Water Walk Spell permanent,
+Boots of Polarity,Boots,30000,Magic Resistance +15%,
+Boots of Speed,Boots,30000,Hero movement +6,
+Bow of Elven Cherrywoor,Misc,10000,Archery +5%,Bow of the Sharpshooter
+Bow of the Sharpshooter,Misc (3 slots),60000,"No range and obstacle penalty, No melee penalty",Bow of the Sharpshooter
+Bowstring of the Unicorn's Mane,Misc,20000,Archery +10%,Bow of the Sharpshooter
