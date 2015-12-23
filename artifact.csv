@@ -8,7 +8,7 @@ Angelic Alliance,Weapon (6 slots),420000,"All primary skills +21, No alignment p
 Armageddon's Blade,Weapon (3 slots),250000,"Attack +3, Defense +3, Knowledge +6, Spell Power +3, Armageddon Spell expert, Immune to Armageddon",Armageddon's Blade
 Armor of the Damned,Torso (4 slots),60000,"Attack +3, Defense +3, Spell Power +2, Knowledge +2, Following Spells on enemies: Slow, Curse, Weakness, Misfortune",
 Armor of Wonder,Torso (4 slots),20000,All primary skills +1,Angelic Alliance
-Arms of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 5th lvl units by 2 per week in that town",
+Arms of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 5th lvl units by 2 per week in that town",Statue of Legion
 Badge of Courage,Misc,5000,"Morale +1, Immune to Mind spells",
 Bird of Perception,Misc,5000,Eagle Eye +5%,
 Blackshard of the Dead Knight,Weapon,15000,Attack +3,Armor of the Damned
@@ -18,3 +18,49 @@ Boots of Speed,Boots,30000,Hero movement +6,
 Bow of Elven Cherrywoor,Misc,10000,Archery +5%,Bow of the Sharpshooter
 Bow of the Sharpshooter,Misc (3 slots),60000,"No range and obstacle penalty, No melee penalty",Bow of the Sharpshooter
 Bowstring of the Unicorn's Mane,Misc,20000,Archery +10%,Bow of the Sharpshooter
+Breastplate of Brimstone,Torso,30000,Spell Power +5,Armageddon's Blade
+Breastplate of Petrified Wood,Torso,5000,Spell Power +1,
+Buckler of the Gnoll King,Shield,20000,Defense +4,
+Cape of Conjuring,Shoulder,7500,Spell duration +3,Ring of the Magi
+Cape of Velocity,Shoulder,50000,Unit speed +2,
+Cards of Prophecy,Misc,5000,Luck +1,
+Celestial Necklace of Bliss,Necklace,60000,All primary skills +3,Angelic Alliance
+Centaur's Axe,Weapon,10000,Attack +2,
+Charm of Mana,Misc,2500,Spell point +1/day,Wizard's Well
+Cloak of the Undead King,Shoulder (3 slots),60000,"Necromancy +60%, From dead allies, 30% are resurrected as Skeletons. If a hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected: Basic – Walking Dead; Advanced – Wights; Expert – Liches",Cloak of the Undead King
+Clover of Fortune,Misc,5000,Luck +1,
+Collar of Conjuring,Necklace,2500,Spell duration +1,Ring of the Magi
+Cornucopia,Misc (4 slots),100000,"Resources Crystal, Mercury, Sulfur, Gems +4/day",Cornucopia
+Crest of Valor,Misc,5000,Morale +1,
+Crown of Dragontooth,Helm,40000,"Spell Power +4, Knowledge +4",Power of the Dragon Father
+Crown of the Supreme Magi,Helm,25000,Knowledge +4,
+Dead Man's Boots,Boots,30000,Necromancy +15%,Cloak of the Undead King
+Diplomat's Ring,Ring,25000,Surrendering cost is reduced,
+Dragon Scale Armor,Torso,40000,"Attack +4, Defense +4",Power of the Dragon Father
+Dragon Scale Shield,Shield,30000,"Attack +3, Defense +3",Power of the Dragon Father
+Dragon Wing Tabard,Shoulder,20000,"Spell Power +3, Knowledge +2",Power of the Dragon Father
+Dragonbone Greaves,Boots,10000,"Knowledge +1, Power skill +1",Power of the Dragon Father
+Elixir of Life,Misc (3 slots),100000,"Unit health +25% & +4 HP, Regeneration ability",Elixir of Life
+Emblem of Cognizance,Misc,15000,Eagle Eye +15%,
+Endless Bag of Gold,Misc,37500,Gold +750/day,
+Endless Purse of Gold,Misc,25000,Gold +500/day,
+Endless Sack of Gold,Misc,50000,Gold +1000/day,
+Equestrian's Gloves,Ring,15000,Hero movement +3,
+Everflowing Crystal Cloak,Shoulder,25000,Resource Crystal +1/day,Cornucopia
+Everpouring Vial of Mercury,Misc,25000,Resource Mercury +1/day,Cornucopia
+Eversmoking Ring of Sulfur,Ring,25000,Resource Sulfur +1/day,Cornucopia
+Garniture of Interference,Necklace,10000,Resistance +5%,
+Glyph of Gallantry,Misc,5000,Morale +1,
+Golden Bow,Misc,40000,No range and obstacle penalty,
+Greater Gnoll's Flail,Weapon,20000,Attack +4,
+Head of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 6th lvl units by 1 per week in that town",Statue of Legion
+Hellstorm Helmet,Helm,30000,Knowledge +5,
+Helm of Chaos,Helm,20000,Knowledge +3,
+Helm of Heavenly Enlightenment,Helm,120000,All primary skills +6,Angelic Alliance
+Helm of the Alabaster Unicorn,Helm,5000,Knowledge +1,
+Hourglass of the Evil Hour,Misc,10000,Negates luck bonuses during combat for both sides,
+Inexhaustible Cart of Lumber,Misc,25000,Resource Wood +1/day,
+Inexhaustible Cart of Ore,Misc,25000,Resource Ore +1/day,
+Ladybird of Luck,Misc,5000,Luck +1,
+Legs of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 2nd lvl units by 5 per week in that town",Statue of Legion
+Lion's Shield of Courage,Shield,80000,All primary skills +4,Angelic Alliance
