@@ -64,3 +64,73 @@ Inexhaustible Cart of Ore,Misc,25000,Resource Ore +1/day,
 Ladybird of Luck,Misc,5000,Luck +1,
 Legs of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 2nd lvl units by 5 per week in that town",Statue of Legion
 Lion's Shield of Courage,Shield,80000,All primary skills +4,Angelic Alliance
+Loins of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 3rd lvl units by 4 per week in that town",Statue of Legion
+Mystic Orb of Mana,Misc,7500,Spell points +3/day,Wizard's Well
+Necklace of Dragonteeth,Necklace,30000,"Spell Power +3, Knowledge +3",Power of the Dragon Father
+Necklace of Ocean Guidance,Necklace,50000,Increases hero sea movement ,Admiral's Hat
+Necklace of Swiftness,Necklace,25000,Unit speed +1,
+Ogre's Club of Havoc,Weapon,25000,Attack +5,
+Orb of Driving Rain,Misc,30000,All Water spell damage +50%,
+Orb of Inhibition,Misc,100000,Prevents casting all spells in combat,
+Orb of Silt,Misc,30000,All Earth spell damage +50%,
+Orb of Tempestuous Fire,Misc,30000,All Fire spell damage +50%,
+Orb of Firmament,Misc,30000,All Air spell damage +50%,
+Orb of Vulnerability,Misc,125000,"All spells usable, no immunities",
+Pendant of Courage,Necklace,35000,"Luck +3, Morale +3",
+Pendant of Death,Necklace,12500,Immunity to Destroy Undead spell ,
+Pendant of Dispassion,Necklace,5000,Immunity to Berserk spell,
+Pendant of Free Will,Necklace,5000,Immunity to Hypnotize spell,
+Pendant of Holiness,Necklace,25000,Immunity to Curse spell,
+Pendant of Life,Necklace,12500,Immunity to Death Ripple spell,
+Pendant of Negativity,Necklace,25000,Immunity to Lightning Bolt and Chain Lightning spells,
+Pendant of Second Sight,Necklace,25000,Immunity to Blind spell,
+Pendant of Total Recall,Necklace,15000,Immunity to Forgetfulness spell,
+Power of the Dragon Father,Torso (9 slots),210000,"Primary skills +16, Luck +1, Morale +1, Immunity to all level 1-4 spells",Power of the Dragon Father
+Quiet Eye of the Dragon,Ring,10000,"Morale +1, Luck +1",Power of the Dragon Father
+Recanter's Cloak,Shoulder,40000,No level 3+ spells can be cast during combat,
+Red Dragon Flame Tongue,Weapon,20000,"Attack +2, Defense +2",Power of the Dragon Father
+Rib Cage,Torso,15000,Spell Power +2,Armor of the Damned
+Ring of Conjuring,Ring,5000,Spell duration +2,Ring of the Magi
+Ring of Infinite Gems,Ring,25000,Resource Gems +1/day,Cornucopia
+Ring of Life,Ring,25000,Unit health +1,Elixir of Life
+Ring of the Magi,Ring (3 slots),15000,Spell duration +56,Ring of the Magi
+Ring of the Wayfarer,Ring,25000,"Unit speed +1, Hero movement +6",
+Ring of Vitality,Ring,25000,Unit health +1,Elixir of Life
+Sandals of the Saint,Boots,40000,All primary skills +2,Angelic Alliance
+Scales of the Greater Basilisk,Torso,20000,Spell Power +3,
+Sea Captain's Hat,Helm,25000,"Hero sea movement, Summon Boat Spell, Scuttle Boat Spell, Protects army in whirlpools",Admiral's Hat
+Sentinel's Shield,Shield,50000,"Defense +12, Attack -3",Titan's Thunder
+Shackles of War,Misc,25000,Prevents retreat and surrender for both sides during combat,
+Shield of the Damned,Shield,30000,Defense +6,Armageddon's Blade
+Shield of the Dwarven Lords,Shield,10000,Defense +2,
+Shield of the Yawning Dead,Shield,15000,Defense +3,Armor of the Damned
+Skull Helmet,Helm,15000,Knowledge +2,Armor of the Damned
+Speculum,Misc,5000,Scouting radius +1,
+Spell Scroll,Misc,,Has a spell on it,
+Spellbinder's Hat,Helm,150000,Grants hero ability to cast all level 5 spells,
+Sphere of Permanence,Misc,37500,Immunity to Dispel spell,
+Spirit of Oppression,Misc,10000,Morale disabled except negative,
+Spyglass,Misc,5000,Scouting radius +1,
+Statesman's Medal,Necklace,25000,Surrendering costs 10% less,
+Statue of Legion,Misc (5 slots),125000,All creature growth +50%,Statue of Legion
+Still Eye of the Dragon,Ring,10000,"Attack +1, Defense +1",Power of the Dragon Father
+Stoic Watchman,Misc,10000,Eagle Eye +10%,
+Surcoat of the Counterpoise,Shoulder,20000,Resistance +10%,
+Sword of Hellfire,Weapon,30000,Attack +6,Armageddon's Blade
+Sword of Judgement,Weapon,100000,All primary skills +5,Angelic Alliance
+Talisman of Mana,Misc,5000,Spell points +2/day,Wizard's Well
+Targ of the Rampaging Ogre,Shield,25000,Defense +5,
+Thunder Helmet,Helm,50000,"Knowledge +10, Spell Power -2",Titan's Thunder
+Titan's Cuirass,Torso,50000,"Spell Power +10, Knowledge -2",Titan's Thunder
+Titan's Gladius,Weapon,50000,"Attack +12, Defense -3",Titan's Thunder
+Titan's Thunder,Weapon (4 slots),200000,"Attack +9, Defense +9, Knowledge +8, Spell Power +8, Titan's Lightning Bolt spell (600 damage, no spell point cost)",Titan's Thunder
+Tome of Air,Misc,100000,Grants ability to cast all Expert Air spells,
+Tome of Earth,Misc,100000,Grants ability to cast all Expert Earth spells,
+Tome of Fire,Misc,100000,Grants ability to cast all Expert Fire spells,
+Tome of Water,Misc,100000,Grants ability to cast all Expert Water spells,
+Torso of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 4th lvl units by 3 per week in that town",Statue of Legion
+Tunic of the Cyclops King,Torso,25000,Spell Power +4,
+Vampire's Cowl,Shoulder,20000,Necromancy +10%,Cloak of the Undead King
+Vial of Dragon Blood,Misc,100000,All dragons under hero's command receive +5 Attack and Defense,
+Vial of Lifeblood,Misc,50000,Unit health +2,Elixir of Life
+Wizard's Well,Misc (3 slots),15000,Regenerates all spell points each day,Wizard's Well
