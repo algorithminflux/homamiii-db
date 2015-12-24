@@ -1,136 +1,136 @@
-name,slot,gold_cost,effect,set_name
-Admiral's Hat,Helm (2 slots),125000,"Hero sea movement, No penalty for boat boarding/disembarking, Summon Boat Spell, Scuttle Boat Spell, Movement converted between land and sea, Protects army in whirlpools",Admiral's Hat
-Ambassador's Sash,Shoulder,25000,Surrendering cost is reduced,
-Amulet of the Undertaker,Necklace,10000,Necromancy +5%,Cloak of the Undead King
-Angel Feather Arrows,Misc,30000,Archery +15%,Bow of the Sharpshooter
-Angel Wings,Shoulder,100000,Fly Spell permanent,
-Angelic Alliance,Weapon (6 slots),420000,"All primary skills +21, No alignment penalty, Prayer in combat",Angelic Alliance
-Armageddon's Blade,Weapon (3 slots),250000,"Attack +3, Defense +3, Knowledge +6, Spell Power +3, Armageddon Spell expert, Immune to Armageddon",Armageddon's Blade
-Armor of the Damned,Torso (4 slots),60000,"Attack +3, Defense +3, Spell Power +2, Knowledge +2, Following Spells on enemies: Slow, Curse, Weakness, Misfortune",
-Armor of Wonder,Torso (4 slots),20000,All primary skills +1,Angelic Alliance
-Arms of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 5th lvl units by 2 per week in that town",Statue of Legion
-Badge of Courage,Misc,5000,"Morale +1, Immune to Mind spells",
-Bird of Perception,Misc,5000,Eagle Eye +5%,
-Blackshard of the Dead Knight,Weapon,15000,Attack +3,Armor of the Damned
-Boots of Levitation,Boots,50000,Water Walk Spell permanent,
-Boots of Polarity,Boots,30000,Magic Resistance +15%,
-Boots of Speed,Boots,30000,Hero movement +6,
-Bow of Elven Cherrywoor,Misc,10000,Archery +5%,Bow of the Sharpshooter
-Bow of the Sharpshooter,Misc (3 slots),60000,"No range and obstacle penalty, No melee penalty",Bow of the Sharpshooter
-Bowstring of the Unicorn's Mane,Misc,20000,Archery +10%,Bow of the Sharpshooter
-Breastplate of Brimstone,Torso,30000,Spell Power +5,Armageddon's Blade
-Breastplate of Petrified Wood,Torso,5000,Spell Power +1,
-Buckler of the Gnoll King,Shield,20000,Defense +4,
-Cape of Conjuring,Shoulder,7500,Spell duration +3,Ring of the Magi
-Cape of Velocity,Shoulder,50000,Unit speed +2,
-Cards of Prophecy,Misc,5000,Luck +1,
-Celestial Necklace of Bliss,Necklace,60000,All primary skills +3,Angelic Alliance
-Centaur's Axe,Weapon,10000,Attack +2,
-Charm of Mana,Misc,2500,Spell point +1/day,Wizard's Well
-Cloak of the Undead King,Shoulder (3 slots),60000,"Necromancy +60%, From dead allies, 30% are resurrected as Skeletons. If a hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected: Basic – Walking Dead; Advanced – Wights; Expert – Liches",Cloak of the Undead King
-Clover of Fortune,Misc,5000,Luck +1,
-Collar of Conjuring,Necklace,2500,Spell duration +1,Ring of the Magi
-Cornucopia,Misc (4 slots),100000,"Resources Crystal, Mercury, Sulfur, Gems +4/day",Cornucopia
-Crest of Valor,Misc,5000,Morale +1,
-Crown of Dragontooth,Helm,40000,"Spell Power +4, Knowledge +4",Power of the Dragon Father
-Crown of the Supreme Magi,Helm,25000,Knowledge +4,
-Dead Man's Boots,Boots,30000,Necromancy +15%,Cloak of the Undead King
-Diplomat's Ring,Ring,25000,Surrendering cost is reduced,
-Dragon Scale Armor,Torso,40000,"Attack +4, Defense +4",Power of the Dragon Father
-Dragon Scale Shield,Shield,30000,"Attack +3, Defense +3",Power of the Dragon Father
-Dragon Wing Tabard,Shoulder,20000,"Spell Power +3, Knowledge +2",Power of the Dragon Father
-Dragonbone Greaves,Boots,10000,"Knowledge +1, Power skill +1",Power of the Dragon Father
-Elixir of Life,Misc (3 slots),100000,"Unit health +25% & +4 HP, Regeneration ability",Elixir of Life
-Emblem of Cognizance,Misc,15000,Eagle Eye +15%,
-Endless Bag of Gold,Misc,37500,Gold +750/day,
-Endless Purse of Gold,Misc,25000,Gold +500/day,
-Endless Sack of Gold,Misc,50000,Gold +1000/day,
-Equestrian's Gloves,Ring,15000,Hero movement +3,
-Everflowing Crystal Cloak,Shoulder,25000,Resource Crystal +1/day,Cornucopia
-Everpouring Vial of Mercury,Misc,25000,Resource Mercury +1/day,Cornucopia
-Eversmoking Ring of Sulfur,Ring,25000,Resource Sulfur +1/day,Cornucopia
-Garniture of Interference,Necklace,10000,Resistance +5%,
-Glyph of Gallantry,Misc,5000,Morale +1,
-Golden Bow,Misc,40000,No range and obstacle penalty,
-Greater Gnoll's Flail,Weapon,20000,Attack +4,
-Head of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 6th lvl units by 1 per week in that town",Statue of Legion
-Hellstorm Helmet,Helm,30000,Knowledge +5,
-Helm of Chaos,Helm,20000,Knowledge +3,
-Helm of Heavenly Enlightenment,Helm,120000,All primary skills +6,Angelic Alliance
-Helm of the Alabaster Unicorn,Helm,5000,Knowledge +1,
-Hourglass of the Evil Hour,Misc,10000,Negates luck bonuses during combat for both sides,
-Inexhaustible Cart of Lumber,Misc,25000,Resource Wood +1/day,
-Inexhaustible Cart of Ore,Misc,25000,Resource Ore +1/day,
-Ladybird of Luck,Misc,5000,Luck +1,
-Legs of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 2nd lvl units by 5 per week in that town",Statue of Legion
-Lion's Shield of Courage,Shield,80000,All primary skills +4,Angelic Alliance
-Loins of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 3rd lvl units by 4 per week in that town",Statue of Legion
-Mystic Orb of Mana,Misc,7500,Spell points +3/day,Wizard's Well
-Necklace of Dragonteeth,Necklace,30000,"Spell Power +3, Knowledge +3",Power of the Dragon Father
-Necklace of Ocean Guidance,Necklace,50000,Increases hero sea movement ,Admiral's Hat
-Necklace of Swiftness,Necklace,25000,Unit speed +1,
-Ogre's Club of Havoc,Weapon,25000,Attack +5,
-Orb of Driving Rain,Misc,30000,All Water spell damage +50%,
-Orb of Inhibition,Misc,100000,Prevents casting all spells in combat,
-Orb of Silt,Misc,30000,All Earth spell damage +50%,
-Orb of Tempestuous Fire,Misc,30000,All Fire spell damage +50%,
-Orb of Firmament,Misc,30000,All Air spell damage +50%,
-Orb of Vulnerability,Misc,125000,"All spells usable, no immunities",
-Pendant of Courage,Necklace,35000,"Luck +3, Morale +3",
-Pendant of Death,Necklace,12500,Immunity to Destroy Undead spell ,
-Pendant of Dispassion,Necklace,5000,Immunity to Berserk spell,
-Pendant of Free Will,Necklace,5000,Immunity to Hypnotize spell,
-Pendant of Holiness,Necklace,25000,Immunity to Curse spell,
-Pendant of Life,Necklace,12500,Immunity to Death Ripple spell,
-Pendant of Negativity,Necklace,25000,Immunity to Lightning Bolt and Chain Lightning spells,
-Pendant of Second Sight,Necklace,25000,Immunity to Blind spell,
-Pendant of Total Recall,Necklace,15000,Immunity to Forgetfulness spell,
-Power of the Dragon Father,Torso (9 slots),210000,"Primary skills +16, Luck +1, Morale +1, Immunity to all level 1-4 spells",Power of the Dragon Father
-Quiet Eye of the Dragon,Ring,10000,"Morale +1, Luck +1",Power of the Dragon Father
-Recanter's Cloak,Shoulder,40000,No level 3+ spells can be cast during combat,
-Red Dragon Flame Tongue,Weapon,20000,"Attack +2, Defense +2",Power of the Dragon Father
-Rib Cage,Torso,15000,Spell Power +2,Armor of the Damned
-Ring of Conjuring,Ring,5000,Spell duration +2,Ring of the Magi
-Ring of Infinite Gems,Ring,25000,Resource Gems +1/day,Cornucopia
-Ring of Life,Ring,25000,Unit health +1,Elixir of Life
-Ring of the Magi,Ring (3 slots),15000,Spell duration +56,Ring of the Magi
-Ring of the Wayfarer,Ring,25000,"Unit speed +1, Hero movement +6",
-Ring of Vitality,Ring,25000,Unit health +1,Elixir of Life
-Sandals of the Saint,Boots,40000,All primary skills +2,Angelic Alliance
-Scales of the Greater Basilisk,Torso,20000,Spell Power +3,
-Sea Captain's Hat,Helm,25000,"Hero sea movement, Summon Boat Spell, Scuttle Boat Spell, Protects army in whirlpools",Admiral's Hat
-Sentinel's Shield,Shield,50000,"Defense +12, Attack -3",Titan's Thunder
-Shackles of War,Misc,25000,Prevents retreat and surrender for both sides during combat,
-Shield of the Damned,Shield,30000,Defense +6,Armageddon's Blade
-Shield of the Dwarven Lords,Shield,10000,Defense +2,
-Shield of the Yawning Dead,Shield,15000,Defense +3,Armor of the Damned
-Skull Helmet,Helm,15000,Knowledge +2,Armor of the Damned
-Speculum,Misc,5000,Scouting radius +1,
-Spell Scroll,Misc,,Has a spell on it,
-Spellbinder's Hat,Helm,150000,Grants hero ability to cast all level 5 spells,
-Sphere of Permanence,Misc,37500,Immunity to Dispel spell,
-Spirit of Oppression,Misc,10000,Morale disabled except negative,
-Spyglass,Misc,5000,Scouting radius +1,
-Statesman's Medal,Necklace,25000,Surrendering costs 10% less,
-Statue of Legion,Misc (5 slots),125000,All creature growth +50%,Statue of Legion
-Still Eye of the Dragon,Ring,10000,"Attack +1, Defense +1",Power of the Dragon Father
-Stoic Watchman,Misc,10000,Eagle Eye +10%,
-Surcoat of the Counterpoise,Shoulder,20000,Resistance +10%,
-Sword of Hellfire,Weapon,30000,Attack +6,Armageddon's Blade
-Sword of Judgement,Weapon,100000,All primary skills +5,Angelic Alliance
-Talisman of Mana,Misc,5000,Spell points +2/day,Wizard's Well
-Targ of the Rampaging Ogre,Shield,25000,Defense +5,
-Thunder Helmet,Helm,50000,"Knowledge +10, Spell Power -2",Titan's Thunder
-Titan's Cuirass,Torso,50000,"Spell Power +10, Knowledge -2",Titan's Thunder
-Titan's Gladius,Weapon,50000,"Attack +12, Defense -3",Titan's Thunder
-Titan's Thunder,Weapon (4 slots),200000,"Attack +9, Defense +9, Knowledge +8, Spell Power +8, Titan's Lightning Bolt spell (600 damage, no spell point cost)",Titan's Thunder
-Tome of Air,Misc,100000,Grants ability to cast all Expert Air spells,
-Tome of Earth,Misc,100000,Grants ability to cast all Expert Earth spells,
-Tome of Fire,Misc,100000,Grants ability to cast all Expert Fire spells,
-Tome of Water,Misc,100000,Grants ability to cast all Expert Water spells,
-Torso of Legion,Misc,25000,"When equipped by a hero in a town, increases growth of 4th lvl units by 3 per week in that town",Statue of Legion
-Tunic of the Cyclops King,Torso,25000,Spell Power +4,
-Vampire's Cowl,Shoulder,20000,Necromancy +10%,Cloak of the Undead King
-Vial of Dragon Blood,Misc,100000,All dragons under hero's command receive +5 Attack and Defense,
-Vial of Lifeblood,Misc,50000,Unit health +2,Elixir of Life
-Wizard's Well,Misc (3 slots),15000,Regenerates all spell points each day,Wizard's Well
+"name","slot","gold_cost","effect","set_name"
+"Admiral's Hat","Helm (2 slots)",125000,"Hero sea movement, No penalty for boat boarding/disembarking, Summon Boat Spell, Scuttle Boat Spell, Movement converted between land and sea, Protects army in whirlpools","Admiral's Hat"
+"Ambassador's Sash","Shoulder",25000,"Surrendering cost is reduced",
+"Amulet of the Undertaker","Necklace",10000,"Necromancy +5%","Cloak of the Undead King"
+"Angel Feather Arrows","Misc",30000,"Archery +15%","Bow of the Sharpshooter"
+"Angel Wings","Shoulder",100000,"Fly Spell permanent",
+"Angelic Alliance","Weapon (6 slots)",420000,"All primary skills +21, No alignment penalty, Prayer in combat","Angelic Alliance"
+"Armageddon's Blade","Weapon (3 slots)",250000,"Attack +3, Defense +3, Knowledge +6, Spell Power +3, Armageddon Spell expert, Immune to Armageddon","Armageddon's Blade"
+"Armor of the Damned","Torso (4 slots)",60000,"Attack +3, Defense +3, Spell Power +2, Knowledge +2, Following Spells on enemies: Slow, Curse, Weakness, Misfortune",
+"Armor of Wonder","Torso (4 slots)",20000,"All primary skills +1","Angelic Alliance"
+"Arms of Legion","Misc",25000,"When equipped by a hero in a town, increases growth of 5th lvl units by 2 per week in that town","Statue of Legion"
+"Badge of Courage","Misc",5000,"Morale +1, Immune to Mind spells",
+"Bird of Perception","Misc",5000,"Eagle Eye +5%",
+"Blackshard of the Dead Knight","Weapon",15000,"Attack +3","Armor of the Damned"
+"Boots of Levitation","Boots",50000,"Water Walk Spell permanent",
+"Boots of Polarity","Boots",30000,"Magic Resistance +15%",
+"Boots of Speed","Boots",30000,"Hero movement +6",
+"Bow of Elven Cherrywoor","Misc",10000,"Archery +5%","Bow of the Sharpshooter"
+"Bow of the Sharpshooter","Misc (3 slots)",60000,"No range and obstacle penalty, No melee penalty","Bow of the Sharpshooter"
+"Bowstring of the Unicorn's Mane","Misc",20000,"Archery +10%","Bow of the Sharpshooter"
+"Breastplate of Brimstone","Torso",30000,"Spell Power +5","Armageddon's Blade"
+"Breastplate of Petrified Wood","Torso",5000,"Spell Power +1",
+"Buckler of the Gnoll King","Shield",20000,"Defense +4",
+"Cape of Conjuring","Shoulder",7500,"Spell duration +3","Ring of the Magi"
+"Cape of Velocity","Shoulder",50000,"Unit speed +2",
+"Cards of Prophecy","Misc",5000,"Luck +1",
+"Celestial Necklace of Bliss","Necklace",60000,"All primary skills +3","Angelic Alliance"
+"Centaur's Axe","Weapon",10000,"Attack +2",
+"Charm of Mana","Misc",2500,"Spell point +1/day","Wizard's Well"
+"Cloak of the Undead King","Shoulder (3 slots)",60000,"Necromancy +60%, From dead allies, 30% are resurrected as Skeletons. If a hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected: Basic – Walking Dead; Advanced – Wights; Expert – Liches","Cloak of the Undead King"
+"Clover of Fortune","Misc",5000,"Luck +1",
+"Collar of Conjuring","Necklace",2500,"Spell duration +1","Ring of the Magi"
+"Cornucopia","Misc (4 slots)",100000,"Resources Crystal, Mercury, Sulfur, Gems +4/day","Cornucopia"
+"Crest of Valor","Misc",5000,"Morale +1",
+"Crown of Dragontooth","Helm",40000,"Spell Power +4, Knowledge +4","Power of the Dragon Father"
+"Crown of the Supreme Magi","Helm",25000,"Knowledge +4",
+"Dead Man's Boots","Boots",30000,"Necromancy +15%","Cloak of the Undead King"
+"Diplomat's Ring","Ring",25000,"Surrendering cost is reduced",
+"Dragon Scale Armor","Torso",40000,"Attack +4, Defense +4","Power of the Dragon Father"
+"Dragon Scale Shield","Shield",30000,"Attack +3, Defense +3","Power of the Dragon Father"
+"Dragon Wing Tabard","Shoulder",20000,"Spell Power +3, Knowledge +2","Power of the Dragon Father"
+"Dragonbone Greaves","Boots",10000,"Knowledge +1, Power skill +1","Power of the Dragon Father"
+"Elixir of Life","Misc (3 slots)",100000,"Unit health +25% & +4 HP, Regeneration ability","Elixir of Life"
+"Emblem of Cognizance","Misc",15000,"Eagle Eye +15%",
+"Endless Bag of Gold","Misc",37500,"Gold +750/day",
+"Endless Purse of Gold","Misc",25000,"Gold +500/day",
+"Endless Sack of Gold","Misc",50000,"Gold +1000/day",
+"Equestrian's Gloves","Ring",15000,"Hero movement +3",
+"Everflowing Crystal Cloak","Shoulder",25000,"Resource Crystal +1/day","Cornucopia"
+"Everpouring Vial of Mercury","Misc",25000,"Resource Mercury +1/day","Cornucopia"
+"Eversmoking Ring of Sulfur","Ring",25000,"Resource Sulfur +1/day","Cornucopia"
+"Garniture of Interference","Necklace",10000,"Resistance +5%",
+"Glyph of Gallantry","Misc",5000,"Morale +1",
+"Golden Bow","Misc",40000,"No range and obstacle penalty",
+"Greater Gnoll's Flail","Weapon",20000,"Attack +4",
+"Head of Legion","Misc",25000,"When equipped by a hero in a town, increases growth of 6th lvl units by 1 per week in that town","Statue of Legion"
+"Hellstorm Helmet","Helm",30000,"Knowledge +5",
+"Helm of Chaos","Helm",20000,"Knowledge +3",
+"Helm of Heavenly Enlightenment","Helm",120000,"All primary skills +6","Angelic Alliance"
+"Helm of the Alabaster Unicorn","Helm",5000,"Knowledge +1",
+"Hourglass of the Evil Hour","Misc",10000,"Negates luck bonuses during combat for both sides",
+"Inexhaustible Cart of Lumber","Misc",25000,"Resource Wood +1/day",
+"Inexhaustible Cart of Ore","Misc",25000,"Resource Ore +1/day",
+"Ladybird of Luck","Misc",5000,"Luck +1",
+"Legs of Legion","Misc",25000,"When equipped by a hero in a town, increases growth of 2nd lvl units by 5 per week in that town","Statue of Legion"
+"Lion's Shield of Courage","Shield",80000,"All primary skills +4","Angelic Alliance"
+"Loins of Legion","Misc",25000,"When equipped by a hero in a town, increases growth of 3rd lvl units by 4 per week in that town","Statue of Legion"
+"Mystic Orb of Mana","Misc",7500,"Spell points +3/day","Wizard's Well"
+"Necklace of Dragonteeth","Necklace",30000,"Spell Power +3, Knowledge +3","Power of the Dragon Father"
+"Necklace of Ocean Guidance","Necklace",50000,"Increases hero sea movement ","Admiral's Hat"
+"Necklace of Swiftness","Necklace",25000,"Unit speed +1",
+"Ogre's Club of Havoc","Weapon",25000,"Attack +5",
+"Orb of Driving Rain","Misc",30000,"All Water spell damage +50%",
+"Orb of Inhibition","Misc",100000,"Prevents casting all spells in combat",
+"Orb of Silt","Misc",30000,"All Earth spell damage +50%",
+"Orb of Tempestuous Fire","Misc",30000,"All Fire spell damage +50%",
+"Orb of Firmament","Misc",30000,"All Air spell damage +50%",
+"Orb of Vulnerability","Misc",125000,"All spells usable, no immunities",
+"Pendant of Courage","Necklace",35000,"Luck +3, Morale +3",
+"Pendant of Death","Necklace",12500,"Immunity to Destroy Undead spell ",
+"Pendant of Dispassion","Necklace",5000,"Immunity to Berserk spell",
+"Pendant of Free Will","Necklace",5000,"Immunity to Hypnotize spell",
+"Pendant of Holiness","Necklace",25000,"Immunity to Curse spell",
+"Pendant of Life","Necklace",12500,"Immunity to Death Ripple spell",
+"Pendant of Negativity","Necklace",25000,"Immunity to Lightning Bolt and Chain Lightning spells",
+"Pendant of Second Sight","Necklace",25000,"Immunity to Blind spell",
+"Pendant of Total Recall","Necklace",15000,"Immunity to Forgetfulness spell",
+"Power of the Dragon Father","Torso (9 slots)",210000,"Primary skills +16, Luck +1, Morale +1, Immunity to all level 1-4 spells","Power of the Dragon Father"
+"Quiet Eye of the Dragon","Ring",10000,"Morale +1, Luck +1","Power of the Dragon Father"
+"Recanter's Cloak","Shoulder",40000,"No level 3+ spells can be cast during combat",
+"Red Dragon Flame Tongue","Weapon",20000,"Attack +2, Defense +2","Power of the Dragon Father"
+"Rib Cage","Torso",15000,"Spell Power +2","Armor of the Damned"
+"Ring of Conjuring","Ring",5000,"Spell duration +2","Ring of the Magi"
+"Ring of Infinite Gems","Ring",25000,"Resource Gems +1/day","Cornucopia"
+"Ring of Life","Ring",25000,"Unit health +1","Elixir of Life"
+"Ring of the Magi","Ring (3 slots)",15000,"Spell duration +56","Ring of the Magi"
+"Ring of the Wayfarer","Ring",25000,"Unit speed +1, Hero movement +6",
+"Ring of Vitality","Ring",25000,"Unit health +1","Elixir of Life"
+"Sandals of the Saint","Boots",40000,"All primary skills +2","Angelic Alliance"
+"Scales of the Greater Basilisk","Torso",20000,"Spell Power +3",
+"Sea Captain's Hat","Helm",25000,"Hero sea movement, Summon Boat Spell, Scuttle Boat Spell, Protects army in whirlpools","Admiral's Hat"
+"Sentinel's Shield","Shield",50000,"Defense +12, Attack -3","Titan's Thunder"
+"Shackles of War","Misc",25000,"Prevents retreat and surrender for both sides during combat",
+"Shield of the Damned","Shield",30000,"Defense +6","Armageddon's Blade"
+"Shield of the Dwarven Lords","Shield",10000,"Defense +2",
+"Shield of the Yawning Dead","Shield",15000,"Defense +3","Armor of the Damned"
+"Skull Helmet","Helm",15000,"Knowledge +2","Armor of the Damned"
+"Speculum","Misc",5000,"Scouting radius +1",
+"Spell Scroll","Misc",,"Has a spell on it",
+"Spellbinder's Hat","Helm",150000,"Grants hero ability to cast all level 5 spells",
+"Sphere of Permanence","Misc",37500,"Immunity to Dispel spell",
+"Spirit of Oppression","Misc",10000,"Morale disabled except negative",
+"Spyglass","Misc",5000,"Scouting radius +1",
+"Statesman's Medal","Necklace",25000,"Surrendering costs 10% less",
+"Statue of Legion","Misc (5 slots)",125000,"All creature growth +50%","Statue of Legion"
+"Still Eye of the Dragon","Ring",10000,"Attack +1, Defense +1","Power of the Dragon Father"
+"Stoic Watchman","Misc",10000,"Eagle Eye +10%",
+"Surcoat of the Counterpoise","Shoulder",20000,"Resistance +10%",
+"Sword of Hellfire","Weapon",30000,"Attack +6","Armageddon's Blade"
+"Sword of Judgement","Weapon",100000,"All primary skills +5","Angelic Alliance"
+"Talisman of Mana","Misc",5000,"Spell points +2/day","Wizard's Well"
+"Targ of the Rampaging Ogre","Shield",25000,"Defense +5",
+"Thunder Helmet","Helm",50000,"Knowledge +10, Spell Power -2","Titan's Thunder"
+"Titan's Cuirass","Torso",50000,"Spell Power +10, Knowledge -2","Titan's Thunder"
+"Titan's Gladius","Weapon",50000,"Attack +12, Defense -3","Titan's Thunder"
+"Titan's Thunder","Weapon (4 slots)",200000,"Attack +9, Defense +9, Knowledge +8, Spell Power +8, Titan's Lightning Bolt spell (600 damage, no spell point cost)","Titan's Thunder"
+"Tome of Air","Misc",100000,"Grants ability to cast all Expert Air spells",
+"Tome of Earth","Misc",100000,"Grants ability to cast all Expert Earth spells",
+"Tome of Fire","Misc",100000,"Grants ability to cast all Expert Fire spells",
+"Tome of Water","Misc",100000,"Grants ability to cast all Expert Water spells",
+"Torso of Legion","Misc",25000,"When equipped by a hero in a town, increases growth of 4th lvl units by 3 per week in that town","Statue of Legion"
+"Tunic of the Cyclops King","Torso",25000,"Spell Power +4",
+"Vampire's Cowl","Shoulder",20000,"Necromancy +10%","Cloak of the Undead King"
+"Vial of Dragon Blood","Misc",100000,"All dragons under hero's command receive +5 Attack and Defense",
+"Vial of Lifeblood","Misc",50000,"Unit health +2","Elixir of Life"
+"Wizard's Well","Misc (3 slots)",15000,"Regenerates all spell points each day","Wizard's Well"

@@ -1,8 +1,8 @@
 DROP DATABASE IF EXISTS homamiii;
 CREATE DATABASE homamiii;
 
-GRANT ALL ON homamiii.* TO marc@"%" IDENTIFIED BY "12345";
-GRANT ALL ON homamiii.* TO marc@"localhost" IDENTIFIED BY "12345";
+GRANT ALL ON homamiii.* TO marc@"%" IDENTIFIED BY "marc";
+GRANT ALL ON homamiii.* TO marc@"localhost" IDENTIFIED BY "marc";
 
 USE homamiii;
 
