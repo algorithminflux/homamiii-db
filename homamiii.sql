@@ -17,7 +17,7 @@ CREATE TABLE creature (
 	defense INT,
 	min_damage INT,
 	max_damage INT,
-	special VARCHAR(100),
+	special VARCHAR(80),
 	gold_cost INT,
 	resource_cost INT,
 	resource_type VARCHAR(20),
@@ -46,6 +46,17 @@ CREATE TABLE population (
 	PRIMARY KEY (id)
 );
 
+DROP TABLE IF EXISTS artifact;
+CREATE TABLE artifact (
+	id INT NOT NULL AUTO_INCREMENT,
+	name VARCHAR(40),
+	slot VARCHAR(20),
+	gold_cost INT,
+	effect VARCHAR(300),
+	set_name VARCHAR(35),
+	PRIMARY KEY (id)
+);
+
 -- Load creature CSV file into database
 LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
 
@@ -54,3 +65,6 @@ LOAD DATA LOCAL INFILE 'resource.csv' INTO TABLE resource FIELDS TERMINATED BY '
 
 -- Load population CSV file into database
 LOAD DATA LOCAL INFILE 'population.csv' INTO TABLE population FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (label, pop_min, pop_max);
+
+-- Load artifact CSV file into database
+LOAD DATA LOCAL INFILE 'artifact.csv' INTO TABLE artifact FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, slot, gold_cost, effect, set_name);
