@@ -11,7 +11,7 @@ Here's a link to setting up GitHub Desktop: [Installing GitHub Desktop](https://
 
 Again, if you're on Linux, just get the git commandline program, and get hub from here: [hub commandline tool](https://github.com/github/hub)
 
-I recommend creating an alias for hub using the git command.
+I recommend creating an alias for `hub` using the `git` command.
 
 If you're on Windows, but you still want to use the commandline, I recommend Git Bash: [Git for Windows](https://git-for-windows.github.io/)
 
