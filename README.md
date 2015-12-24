@@ -33,7 +33,7 @@ As a test to make sure everything worked, query the database:
 
 `SELECT name from creature;`
 
-This should return 146 rows of creatures' names.
+This should return 145 rows of creatures' names.
 
 Now, log out of MySQL, then log in to the `homamiii` database as your new user.
 
