@@ -1,8 +1,8 @@
 DROP DATABASE IF EXISTS homamiii;
 CREATE DATABASE homamiii;
 
-GRANT ALL ON homamiii.* TO marc@"%" IDENTIFIED BY "marc";
-GRANT ALL ON homamiii.* TO marc@"localhost" IDENTIFIED BY "marc";
+-- GRANT ALL ON homamiii.* TO marc@"%" IDENTIFIED BY "marc";
+-- GRANT ALL ON homamiii.* TO marc@"localhost" IDENTIFIED BY "marc";
 
 USE homamiii;
 
@@ -205,7 +205,7 @@ CALL add_hero_skill1_skill2('Kyrre', 'Basic', 'Archery', 'Basic', 'Logistics');
 CALL add_hero_skill1_skill2('Labetha', 'Basic', 'Wisdom', 'Basic', 'Earth Magic');
 CALL add_hero_skill1('Lacus', 'Advanced', 'Tactics');
 CALL add_hero_skill1_skill2('Lord Haart', 'Basic', 'Leadership', 'Basic', 'Estates');
-CALL add_hero_skill1_skill2('Lord Haart', 'Basic', 'Necromancy', 'Basic', 'Estates');
+CALL add_hero_skill1_skill2('Lord Haart (Necro)', 'Basic', 'Necromancy', 'Basic', 'Estates');
 CALL add_hero_skill1_skill2('Lorelei', 'Basic', 'Leadership', 'Basic', 'Scouting');
 
 CALL add_hero_skill1_skill2('Loynis', 'Basic', 'Wisdom', 'Basic', 'Learning');
