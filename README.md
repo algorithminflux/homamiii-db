@@ -19,6 +19,8 @@ Once you've got yourself set up to clone a Git repository, clone this one. To do
 
 Once you've got it cloned onto your local system, I suggest modifying lines 4 and 5 of `homamiii.sql`. Right now, it's set to a local user of mine that I use when logging into MySQL, but you should change it to your own user. Note that these lines will create your user for you; you don't need to explicitly issue a `CREATE USER` command from the MySQL commandline after the fact.
 
+*NOTE: If you ever run into trouble using your new user, feel free to revert to the root account.*
+
 Now, open up a terminal or command prompt, change directory to where the `homamiii.sql` script is located on your filesystem, and log into your local mysql server with your root account's password that you set during your MySQL installation:
 
 `mysql -u root -p`
