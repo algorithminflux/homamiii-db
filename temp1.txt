@@ -1,4 +1,5 @@
-UPDATE hero
-  SET skill1_id = (SELECT id FROM hero_specialty WHERE name LIKE 'wisdom' AND level LIKE 'basic'),
-      skill2_id = (SELECT id FROM hero_specialty WHERE name LIKE 'diplomacy' AND level LIKE 'basic')
-WHERE name = (SELECT name from hero where id = 1);
+SELECT h.name "Hero Name", hs1.name "Skill 1", hs2.name "Skill 2"
+FROM hero h
+  JOIN hero_specialty hs1 ON (h.skill1_id = hs1.id)
+  LEFT JOIN hero_specialty hs2 ON (h.skill2_id = hs2.id)
+WHERE h.id < 50;
