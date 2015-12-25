@@ -1,0 +1,4 @@
+UPDATE hero
+  SET skill1_id = (SELECT id FROM hero_specialty WHERE name LIKE 'wisdom' AND level LIKE 'basic'),
+      skill2_id = (SELECT id FROM hero_specialty WHERE name LIKE 'diplomacy' AND level LIKE 'basic')
+WHERE name = (SELECT name from hero where id = 1);

@@ -7,6 +7,12 @@ GRANT ALL ON homamiii.* TO marc@"localhost" IDENTIFIED BY "marc";
 USE homamiii;
 
 DROP TABLE IF EXISTS creature;
+DROP TABLE IF EXISTS resource;
+DROP TABLE IF EXISTS population;
+DROP TABLE IF EXISTS artifact;
+DROP TABLE IF EXISTS hero;
+DROP TABLE IF EXISTS hero_specialty;
+
 CREATE TABLE creature (
 	id INT NOT NULL AUTO_INCREMENT,
 	name VARCHAR(20),
@@ -29,7 +35,6 @@ CREATE TABLE creature (
 	PRIMARY KEY (id)
 );
 
-DROP TABLE IF EXISTS resource;
 CREATE TABLE resource (
 	id INT NOT NULL AUTO_INCREMENT,
 	name VARCHAR(20),
@@ -37,7 +42,6 @@ CREATE TABLE resource (
 	PRIMARY KEY (id)
 );
 
-DROP TABLE IF EXISTS population;
 CREATE TABLE population (
 	id INT NOT NULL AUTO_INCREMENT,
 	label VARCHAR(20),
@@ -46,7 +50,6 @@ CREATE TABLE population (
 	PRIMARY KEY (id)
 );
 
-DROP TABLE IF EXISTS artifact;
 CREATE TABLE artifact (
 	id INT NOT NULL AUTO_INCREMENT,
 	name VARCHAR(40),
@@ -57,41 +60,41 @@ CREATE TABLE artifact (
 	PRIMARY KEY (id)
 );
 
--- DROP TABLE IF EXISTS hero_specialty;
--- CREATE TABLE hero_specialty (
--- 	id INT NOT NULL AUTO_INCREMENT,
--- 	name VARCHAR(40),
--- 	level VARCHAR(20),
--- 	description VARCHAR(300),
--- 	PRIMARY KEY (id)
--- );
+CREATE TABLE hero_specialty (
+	id INT NOT NULL AUTO_INCREMENT,
+	name VARCHAR(40),
+	level VARCHAR(20),
+	description VARCHAR(300),
+	PRIMARY KEY (id)
+);
 
--- DROP TABLE IF EXISTS hero;
--- CREATE TABLE hero (
--- 	id INT NOT NULL AUTO_INCREMENT,
--- 	name VARCHAR(40),
--- 	specialty VARCHAR(20),
--- 	skill1_id INT,
--- 	skill2_id INT,
--- 	PRIMARY KEY (id),
--- 	CONSTRAINT FOREIGN KEY (skill1_id) REFERENCES hero_specialty(id),
--- 	CONSTRAINT FOREIGN KEY (skill2_id) REFERENCES hero_specialty(id)
--- );
+CREATE TABLE hero (
+	id INT NOT NULL AUTO_INCREMENT,
+	name VARCHAR(40),
+	class VARCHAR(20),
+	specialty VARCHAR(20),
+ 	specialty_text VARCHAR(300),
+	skill1_id INT,
+	skill2_id INT,
+	PRIMARY KEY (id),
+	CONSTRAINT FOREIGN KEY (skill1_id) REFERENCES hero_specialty(id),
+	CONSTRAINT FOREIGN KEY (skill2_id) REFERENCES hero_specialty(id)
+);
 
 -- Load creature CSV file into database
-LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
+LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
 
 -- Load resources CSV file into database
-LOAD DATA LOCAL INFILE 'resource.csv' INTO TABLE resource FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, abbrev);
+LOAD DATA LOCAL INFILE 'resource.csv' INTO TABLE resource FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, abbrev);
 
 -- Load population CSV file into database
-LOAD DATA LOCAL INFILE 'population.csv' INTO TABLE population FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (label, pop_min, pop_max);
+LOAD DATA LOCAL INFILE 'population.csv' INTO TABLE population FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (label, pop_min, pop_max);
 
 -- Load artifact CSV file into database
-LOAD DATA LOCAL INFILE 'artifact.csv' INTO TABLE artifact FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, slot, gold_cost, effect, set_name);
+LOAD DATA LOCAL INFILE 'artifact.csv' INTO TABLE artifact FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, slot, gold_cost, effect, set_name);
 
 -- Load hero-specialty CSV file into database
---LOAD DATA LOCAL INFILE 'hero-specialty.csv' INTO TABLE hero_specialty FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, level, description);
+LOAD DATA LOCAL INFILE 'hero-specialty.csv' INTO TABLE hero_specialty FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, level, description);
 
 -- Load hero CSV file into database
---LOAD DATA LOCAL INFILE 'hero.csv' INTO TABLE hero FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS (name, specialty, skill1_id, skill2_id);
+LOAD DATA LOCAL INFILE 'hero.csv' INTO TABLE hero FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, class, specialty, specialty_text);
