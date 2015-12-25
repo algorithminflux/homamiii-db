@@ -47,8 +47,8 @@ And that's it! Happy querying!
 
 ##TODO:
 - Create table for [spells](http://heroes.thelazy.net/wiki/Spells)
-- Create table for [heroes' secondary skills](http://heroes.thelazy.net/wiki/Category:Secondary_skills)
-- Create table for [heroes](http://heroes.thelazy.net/wiki/List_of_heroes)
 
 ##DONE:
 - Create table for [artifacts](http://heroes.thelazy.net/wiki/Artifacts)
+- Create table for [heroes' secondary skills](http://heroes.thelazy.net/wiki/Category:Secondary_skills)
+- Create table for [heroes](http://heroes.thelazy.net/wiki/List_of_heroes)
