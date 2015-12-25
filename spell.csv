@@ -20,66 +20,66 @@
 "Blind","Basic",2,"Fire Magic","Target enemy troop is frozen until attacked, dispelled or effect wears off. Deactivating attack is retaliated at 50% of base attack rating."
 "Blind","Advanced",2,"Fire Magic","Target enemy troop is frozen until attacked, dispelled or effect wears off. Deactivating attack is retaliated at 25% of base attack rating."
 "Blind","Expert",2,"Fire Magic","Target enemy troop is frozen until attacked, dispelled or effect wears off. Deactivating attack is not retaliated."
-"Bloodlust","Basic",1,"Fire Magic",
-"Bloodlust","Advanced",1,"Fire Magic",
-"Bloodlust","Expert",1,"Fire Magic",
-"Chain Lightning","Basic",4,"Air Magic",
-"Chain Lightning","Advanced",4,"Air Magic",
-"Chain Lightning","Expert",4,"Air Magic",
-"Clone","Basic",4,"Water Magic",
-"Clone","Advanced",4,"Water Magic",
-"Clone","Expert",4,"Water Magic",
-"Counterstrike","Basic",4,"Air Magic",
-"Counterstrike","Advanced",4,"Air Magic",
-"Counterstrike","Expert",4,"Air Magic",
-"Cure","Basic",1,"Water Magic",
-"Cure","Advanced",1,"Water Magic",
-"Cure","Expert",1,"Water Magic",
-"Curse","Basic",1,"Fire Magic",
-"Curse","Advanced",1,"Fire Magic",
-"Curse","Expert",1,"Fire Magic",
-"Death Ripple","Basic",2,"Earth Magic",
-"Death Ripple","Advanced",2,"Earth Magic",
-"Death Ripple","Expert",2,"Earth Magic",
-"Destroy Undead","Basic",3,"Air Magic",
-"Destroy Undead","Advanced",3,"Air Magic",
-"Destroy Undead","Expert",3,"Air Magic",
-"Dimension Door","Basic",5,"Air Magic",
-"Dimension Door","Advanced",5,"Air Magic",
-"Dimension Door","Expert",5,"Air Magic",
-"Disguise","Basic",2,"Air Magic",
-"Disguise","Advanced",2,"Air Magic",
-"Disguise","Expert",2,"Air Magic",
-"Dispel","Basic",1,"Water Magic",
-"Dispel","Advanced",1,"Water Magic",
-"Dispel","Expert",1,"Water Magic",
-"Disrupting Ray","Basic",2,"Air Magic",
-"Disrupting Ray","Advanced",2,"Air Magic",
-"Disrupting Ray","Expert",2,"Air Magic",
-"Earthquake","Basic",3,"Earth Magic",
-"Earthquake","Advanced",3,"Earth Magic",
-"Earthquake","Expert",3,"Earth Magic",
-"Fire Shield","Basic",4,"Fire Magic",
-"Fire Shield","Advanced",4,"Fire Magic",
-"Fire Shield","Expert",4,"Fire Magic",
-"Fire Wall","Basic",2,"Fire Magic",
-"Fire Wall","Advanced",2,"Fire Magic",
-"Fire Wall","Expert",2,"Fire Magic",
-"Fireball","Basic",3,"Fire Magic",
-"Fireball","Advanced",3,"Fire Magic",
-"Fireball","Expert",3,"Fire Magic",
-"Fly","Basic",5,"Air Magic",
-"Fly","Advanced",5,"Air Magic",
-"Fly","Expert",5,"Air Magic",
-"Force Field","Basic",3,"Earth Magic",
-"Force Field","Advanced",3,"Earth Magic",
-"Force Field","Expert",3,"Earth Magic",
-"Forgetfulness","Basic",3,"Water Magic",
-"Forgetfulness","Advanced",3,"Water Magic",
-"Forgetfulness","Expert",3,"Water Magic",
-"Fortune","Basic",2,"Air Magic",
-"Fortune","Advanced",2,"Air Magic",
-"Fortune","Expert",2,"Air Magic",
+"Bloodlust","Basic",1,"Fire Magic","Target allied troop receives a +3 attack rating bonus for hand-to-hand attacks."
+"Bloodlust","Advanced",1,"Fire Magic","Target allied troop receives a +6 attack rating bonus for hand-to-hand attacks."
+"Bloodlust","Expert",1,"Fire Magic","All allied troops receive a +6 attack rating bonus for hand-to-hand attacks."
+"Chain Lightning","Basic",4,"Air Magic","Lightning bolt strikes target troop for (25 + (power x 40)) damage. Bolt strikes four troops."
+"Chain Lightning","Advanced",4,"Air Magic","Lightning bolt strikes target troop for (50 + (power x 40)) damage. Bolt strikes five troops."
+"Chain Lightning","Expert",4,"Air Magic","Lightning bolt strikes target troop for (100 + (power x 40)) damage. Bolt strikes five troops."
+"Clone","Basic",4,"Water Magic","Creates a duplicate of target allied troop level 1-5. The duplicate can attack but is dispelled if it receives any damage."
+"Clone","Advanced",4,"Water Magic","Creates a duplicate of target allied troop level 1-6. The duplicate can attack but is dispelled if it receives any damage."
+"Clone","Expert",4,"Water Magic","Creates a duplicate of target allied troop level 1-7. The duplicate can attack but is dispelled if it receives any damage."
+"Counterstrike","Basic",4,"Air Magic","Target allied troop can retaliate against one additional attack per round."
+"Counterstrike","Advanced",4,"Air Magic","Target allied troop can retaliate against two additional attacks per round."
+"Counterstrike","Expert",4,"Air Magic","All allied troops can retaliate against two additional attacks per round."
+"Cure","Basic",1,"Water Magic","Removes all negative spell effects from target allied troop and heals it for (10 + (power x 5)) health points."
+"Cure","Advanced",1,"Water Magic","Removes all negative spell effects from target allied troop and heals it for (20 + (Power x 5)) health points."
+"Cure","Expert",1,"Water Magic","Removes all negative spell effects from all allied troops and heals each for (30 + (Power x 5)) health points."
+"Curse","Basic",1,"Fire Magic","The targeted enemy unit delivers minimum damage when attacking."
+"Curse","Advanced",1,"Fire Magic","The targeted enemy unit delivers (minimum damage * 0.8 - 1) when attacking. Base damage for each creature cannot be reduced to below 1."
+"Curse","Expert",1,"Fire Magic","All enemy units deliver (minimum damage * 0.8 - 1) when attacking. Base damage for each creature cannot be reduced to below 1."
+"Death Ripple","Basic",2,"Earth Magic","All creatures (except undead) troops take (10 + (power x 5)) damage."
+"Death Ripple","Advanced",2,"Earth Magic","All creatures (except undead) troops take (20 + (power x 5)) damage."
+"Death Ripple","Expert",2,"Earth Magic","All creatures (except undead) troops take (30 + (power x 5)) damage."
+"Destroy Undead","Basic",3,"Air Magic","All undead creature troops receive ((power x 10) + 10) damage."
+"Destroy Undead","Advanced",3,"Air Magic","All undead creature troops receive ((power x 10) + 20) damage."
+"Destroy Undead","Expert",3,"Air Magic","All undead creature troops receive ((power x 10) + 50) damage."
+"Dimension Door","Basic",5,"Air Magic","Teleports hero to target, unoccupied, visible location on the adventure map. Spell may be cast twice per day and reduces the hero's movement by three tiles for each casting."
+"Dimension Door","Advanced",5,"Air Magic","Teleports hero to target, unoccupied, visible location on the adventure map. Spell may be cast three times per day and reduces the hero's movement by three tiles for each casting."
+"Dimension Door","Expert",5,"Air Magic","Teleports hero to target, unoccupied, visible location on the adventure map. Spell may be cast four times per day and reduces the hero's movement by two tiles for each casting."
+"Disguise","Basic",2,"Air Magic","All of the hero's creature troops are displayed as if they were composed of the most powerful creatures in the hero's army. Troop population numbers are represented normally."
+"Disguise","Advanced",2,"Air Magic","All of the hero's creature troops are displayed as if they were composed of the most powerful creatures in the hero's army. Troop population numbers are represented by zeros."
+"Disguise","Expert",2,"Air Magic","All of the hero's creature troops are displayed as if they were composed of the most powerful creature in the hero's longest owned town. Troop population numbers are represented normally. "
+"Dispel","Basic",1,"Water Magic","Removes all spell effects from target allied creature troop."
+"Dispel","Advanced",1,"Water Magic","Removes all spell effects from target allied or enemy creature troop."
+"Dispel","Expert",1,"Water Magic","Removes all spell effects from all creatures and the battlefield."
+"Disrupting Ray","Basic",2,"Air Magic","Reduces target enemy troop's defense rating by 3."
+"Disrupting Ray","Advanced",2,"Air Magic","Reduces target enemy troop's defense rating by 4."
+"Disrupting Ray","Expert",2,"Air Magic","Reduces target enemy troop's defense rating by 5."
+"Earthquake","Basic",3,"Earth Magic","Does one point of damage to two, random castle walls during siege combat."
+"Earthquake","Advanced",3,"Earth Magic","Does one point of damage to three, random castle walls during siege combat."
+"Earthquake","Expert",3,"Earth Magic","Does one point of damage to four, random castle walls during siege combat."
+"Fire Shield","Basic",4,"Fire Magic","20% of hand-to-hand damage inflicted on target allied troop is counter-inflicted on attackers of the troop."
+"Fire Shield","Advanced",4,"Fire Magic","25% of hand-to-hand damage inflicted on target allied troop is counter-inflicted on attackers of the troop."
+"Fire Shield","Expert",4,"Fire Magic","30% of hand-to-hand damage inflicted on target allied troop is counter-inflicted on attackers of the troop."
+"Fire Wall","Basic",2,"Fire Magic","Two-hex Wall. Damage is (10+ Spell Power*10)."
+"Fire Wall","Advanced",2,"Fire Magic","Three-hex Wall. Damage is (20+ Spell Power*10). Cost reduced by 2."
+"Fire Wall","Expert",2,"Fire Magic","Three-hex Wall. Damage is (50+ Spell Power*10)."
+"Fireball","Basic",3,"Fire Magic","Troops within target hex and adjacent hexes take (15 + (power x 10)) damage."
+"Fireball","Advanced",3,"Fire Magic","Troops within target hex and adjacent hexes take (30 + (power x 10)) damage."
+"Fireball","Expert",3,"Fire Magic","Troops within target hex and adjacent hexes take (60 + (power x 10)) damage."
+"Fly","Basic",5,"Air Magic","Distance traveled may be up to 60% of normal movement."
+"Fly","Advanced",5,"Air Magic","Distance traveled may be up to 80% of normal movement."
+"Fly","Expert",5,"Air Magic","Distance traveled may be up to 100% of normal movement."
+"Force Field","Basic",3,"Earth Magic","A two hex-wide force wall is created at target hex. Movement through these hexes is blocked."
+"Force Field","Advanced",3,"Earth Magic","A three hex-wide force wall is created at target hex. Movement through these hexes is blocked."
+"Force Field","Expert",3,"Earth Magic","A three hex-wide force wall is created at target hex. Movement through these hexes is blocked."
+"Forgetfulness","Basic",3,"Water Magic","Half of the creatures in target enemy troop with ranged attack forget to shoot."
+"Forgetfulness","Advanced",3,"Water Magic","Target enemy troop with ranged attack cannot use its ranged attack."
+"Forgetfulness","Expert",3,"Water Magic","All enemy troops with ranged attacks cannot use their ranged attacks."
+"Fortune","Basic",2,"Air Magic","Increases luck of target, allied troop by 1."
+"Fortune","Advanced",2,"Air Magic","Increases luck of target, allied troop by 2."
+"Fortune","Expert",2,"Air Magic","Increases luck of all allied troops by 2."
 "Frenzy","Basic",4,"Fire Magic",
 "Frenzy","Advanced",4,"Fire Magic",
 "Frenzy","Expert",4,"Fire Magic",
