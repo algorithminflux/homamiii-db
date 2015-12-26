@@ -82,22 +82,22 @@ CREATE TABLE hero (
 );
 
 -- Load creature CSV file into database
-LOAD DATA LOCAL INFILE 'creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
+LOAD DATA LOCAL INFILE 'csv/creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
 
 -- Load resources CSV file into database
-LOAD DATA LOCAL INFILE 'resource.csv' INTO TABLE resource FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, abbrev);
+LOAD DATA LOCAL INFILE 'csv/resource.csv' INTO TABLE resource FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, abbrev);
 
 -- Load population CSV file into database
-LOAD DATA LOCAL INFILE 'population.csv' INTO TABLE population FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (label, pop_min, pop_max);
+LOAD DATA LOCAL INFILE 'csv/population.csv' INTO TABLE population FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (label, pop_min, pop_max);
 
 -- Load artifact CSV file into database
-LOAD DATA LOCAL INFILE 'artifact.csv' INTO TABLE artifact FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, slot, gold_cost, effect, set_name);
+LOAD DATA LOCAL INFILE 'csv/artifact.csv' INTO TABLE artifact FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, slot, gold_cost, effect, set_name);
 
 -- Load hero-specialty CSV file into database
-LOAD DATA LOCAL INFILE 'hero-specialty.csv' INTO TABLE hero_specialty FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, level, description);
+LOAD DATA LOCAL INFILE 'csv/hero-specialty.csv' INTO TABLE hero_specialty FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, level, description);
 
 -- Load hero CSV file into database
-LOAD DATA LOCAL INFILE 'hero.csv' INTO TABLE hero FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, class, specialty, specialty_text);
+LOAD DATA LOCAL INFILE 'csv/hero.csv' INTO TABLE hero FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, class, specialty, specialty_text);
 
 DELIMITER //
 CREATE PROCEDURE add_hero_skill1_skill2 (IN hero_name VARCHAR(40), IN skill1_level VARCHAR(20), IN skill1 VARCHAR(40), IN skill2_level VARCHAR(20), IN skill2 VARCHAR(40))
