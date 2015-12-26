@@ -48,9 +48,10 @@ And that's it! Happy querying!
 - [Heroes of Might and Magic III Wiki](http://heroes.thelazy.net/wiki/Main_Page)
 
 ##TODO:
-- Create table for [spells](http://heroes.thelazy.net/wiki/Spells)
+- Nothing right now...
 
 ##DONE:
 - Create table for [artifacts](http://heroes.thelazy.net/wiki/Artifacts)
 - Create table for [heroes' secondary skills](http://heroes.thelazy.net/wiki/Category:Secondary_skills)
 - Create table for [heroes](http://heroes.thelazy.net/wiki/List_of_heroes)
+- Create table for [spells](http://heroes.thelazy.net/wiki/Spells)
