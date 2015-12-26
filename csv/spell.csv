@@ -80,132 +80,132 @@
 "Fortune","Basic",2,"Air Magic","Increases luck of target, allied troop by 1."
 "Fortune","Advanced",2,"Air Magic","Increases luck of target, allied troop by 2."
 "Fortune","Expert",2,"Air Magic","Increases luck of all allied troops by 2."
-"Frenzy","Basic",4,"Fire Magic",
-"Frenzy","Advanced",4,"Fire Magic",
-"Frenzy","Expert",4,"Fire Magic",
-"Frost Ring","Basic",3,"Water Magic",
-"Frost Ring","Advanced",3,"Water Magic",
-"Frost Ring","Expert",3,"Water Magic",
-"Haste","Basic",1,"Air Magic",
-"Haste","Advanced",1,"Air Magic",
-"Haste","Expert",1,"Air Magic",
-"Hypnotize","Basic",3,"Air Magic",
-"Hypnotize","Advanced",3,"Air Magic",
-"Hypnotize","Expert",3,"Air Magic",
-"Ice Bolt","Basic",2,"Water Magic",
-"Ice Bolt","Advanced",2,"Water Magic",
-"Ice Bolt","Expert",2,"Water Magic",
-"Implosion","Basic",5,"Earth Magic",
-"Implosion","Advanced",5,"Earth Magic",
-"Implosion","Expert",5,"Earth Magic",
-"Inferno","Basic",4,"Fire Magic",
-"Inferno","Advanced",4,"Fire Magic",
-"Inferno","Expert",4,"Fire Magic",
-"Land Mine","Basic",3,"Fire Magic",
-"Land Mine","Advanced",3,"Fire Magic",
-"Land Mine","Expert",3,"Fire Magic",
-"Lightning Bolt","Basic",2,"Air Magic",
-"Lightning Bolt","Advanced",2,"Air Magic",
-"Lightning Bolt","Expert",2,"Air Magic",
-"Magic Arrow","Basic",1,"All",
-"Magic Arrow","Advanced",1,"All",
-"Magic Arrow","Expert",1,"All",
-"Magic Mirror","Basic",5,"Air Magic",
-"Magic Mirror","Advanced",5,"Air Magic",
-"Magic Mirror","Expert",5,"Air Magic",
-"Meteor Shower","Basic",4,"Earth Magic",
-"Meteor Shower","Advanced",4,"Earth Magic",
-"Meteor Shower","Expert",4,"Earth Magic",
-"Mirth","Basic",3,"Water Magic",
-"Mirth","Advanced",3,"Water Magic",
-"Mirth","Expert",3,"Water Magic",
-"Misfortune","Basic",3,"Fire Magic",
-"Misfortune","Advanced",3,"Fire Magic",
-"Misfortune","Expert",3,"Fire Magic",
-"Prayer","Basic",4,"Water Magic",
-"Prayer","Advanced",4,"Water Magic",
-"Prayer","Expert",4,"Water Magic",
-"Precision","Basic",2,"Air Magic",
-"Precision","Advanced",2,"Air Magic",
-"Precision","Expert",2,"Air Magic",
-"Protection from Air","Basic",2,"Air Magic",
-"Protection from Air","Advanced",2,"Air Magic",
-"Protection from Air","Expert",2,"Air Magic",
-"Protection from Earth","Basic",3,"Earth Magic",
-"Protection from Earth","Advanced",3,"Earth Magic",
-"Protection from Earth","Expert",3,"Earth Magic",
-"Protection from Fire","Basic",1,"Fire Magic",
-"Protection from Fire","Advanced",1,"Fire Magic",
-"Protection from Fire","Expert",1,"Fire Magic",
-"Protection from Water","Basic",1,"Water Magic",
-"Protection from Water","Advanced",1,"Water Magic",
-"Protection from Water","Expert",1,"Water Magic",
-"Quicksand","Basic",2,"Earth Magic",
-"Quicksand","Advanced",2,"Earth Magic",
-"Quicksand","Expert",2,"Earth Magic",
-"Remove Obstacle","Basic",2,"Air Magic",
-"Remove Obstacle","Advanced",2,"Air Magic",
-"Remove Obstacle","Expert",2,"Air Magic",
-"Resurrection","Basic",4,"Earth Magic",
-"Resurrection","Advanced",4,"Earth Magic",
-"Resurrection","Expert",4,"Earth Magic",
-"Sacrifice","Basic",5,"Fire Magic",
-"Sacrifice","Advanced",5,"Fire Magic",
-"Sacrifice","Expert",5,"Fire Magic",
-"Scuttle Boat","Basic",2,"Water Magic",
-"Scuttle Boat","Advanced",2,"Water Magic",
-"Scuttle Boat","Expert",2,"Water Magic",
-"Shield","Basic",1,"Earth Magic",
-"Shield","Advanced",1,"Earth Magic",
-"Shield","Expert",1,"Earth Magic",
-"Slayer","Basic",4,"Fire Magic",
-"Slayer","Advanced",4,"Fire Magic",
-"Slayer","Expert",4,"Fire Magic",
-"Slow","Basic",1,"Earth Magic",
-"Slow","Advanced",1,"Earth Magic",
-"Slow","Expert",1,"Earth Magic",
-"Sorrow","Basic",4,"Earth Magic",
-"Sorrow","Advanced",4,"Earth Magic",
-"Sorrow","Expert",4,"Earth Magic",
-"Stone Skin","Basic",1,"Earth Magic",
-"Stone Skin","Advanced",1,"Earth Magic",
-"Stone Skin","Expert",1,"Earth Magic",
-"Summon Air Elemental","Basic",5,"Air Magic",
-"Summon Air Elemental","Advanced",5,"Air Magic",
-"Summon Air Elemental","Expert",5,"Air Magic",
-"Summon Boat","Basic",1,"Water Magic",
-"Summon Boat","Advanced",1,"Water Magic",
-"Summon Boat","Expert",1,"Water Magic",
-"Summon Earth Elemental","Basic",5,"Earth Magic",
-"Summon Earth Elemental","Advanced",5,"Earth Magic",
-"Summon Earth Elemental","Expert",5,"Earth Magic",
-"Summon Fire Elemental","Basic",5,"Fire Magic",
-"Summon Fire Elemental","Advanced",5,"Fire Magic",
-"Summon Fire Elemental","Expert",5,"Fire Magic",
-"Summon Water Elemental","Basic",5,"Water Magic",
-"Summon Water Elemental","Advanced",5,"Water Magic",
-"Summon Water Elemental","Expert",5,"Water Magic",
-"Teleport","Basic",3,"Water Magic",
-"Teleport","Advanced",3,"Water Magic",
-"Teleport","Expert",3,"Water Magic",
-"Titan's Lightning Bolt","Basic",5,"Air Magic",
-"Titan's Lightning Bolt","Advanced",5,"Air Magic",
-"Titan's Lightning Bolt","Expert",5,"Air Magic",
-"Town Portal","Basic",4,"Earth Magic",
-"Town Portal","Advanced",4,"Earth Magic",
-"Town Portal","Expert",4,"Earth Magic",
-"View Air","Basic",1,"Air Magic",
-"View Air","Advanced",1,"Air Magic",
-"View Air","Expert",1,"Air Magic",
-"View Earth","Basic",1,"Earth Magic",
-"View Earth","Advanced",1,"Earth Magic",
-"View Earth","Expert",1,"Earth Magic",
-"Visions","Basic",2,"All",
-"Visions","Advanced",2,"All",
-"Visions","Expert",2,"All",
-"Water Walk","Basic",4,"Water Magic",
-"Water Walk","Advanced",4,"Water Magic",
-"Water Walk","Expert",4,"Water Magic",
-"Weakness","Basic",2,"Water Magic",
-"Weakness","Advanced",2,"Water Magic",
-"Weakness","Expert",2,"Water Magic",
+"Frenzy","Basic",4,"Fire Magic","Target troop's attack rating is increased by 100% of the troop's defense rating, and its defense rating is reduced to zero."
+"Frenzy","Advanced",4,"Fire Magic","Target troop's attack rating is increased by 150% of the troop's defense rating, and its defense rating is reduced to zero."
+"Frenzy","Expert",4,"Fire Magic","Target troop's attack rating is increased by 200% of the troop's defense rating, and its defense rating is reduced to zero."
+"Frost Ring","Basic",3,"Water Magic","Troops in hexes surrounding target hex receive (15 + (power x 10)) in damage. Target hex is unaffected."
+"Frost Ring","Advanced",3,"Water Magic","Troops in hexes surrounding target hex receive (30 + (power x 10)) in damage. Target hex is unaffected."
+"Frost Ring","Expert",3,"Water Magic","Troops in hexes surrounding target hex receive (60 + (power x 10)) in damage. Target hex is unaffected."
+"Haste","Basic",1,"Air Magic","Target allied troop's speed is increased by three hexes/turn."
+"Haste","Advanced",1,"Air Magic","Target allied troop's speed is increased by five hexes/turn."
+"Haste","Expert",1,"Air Magic","All allied troops' speed is increased by five hexes/turn."
+"Hypnotize","Basic",3,"Air Magic","Target enemy troop of less than (10 + (power x 25)) health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation."
+"Hypnotize","Advanced",3,"Air Magic","Target enemy troop of less than (20 + (power x 25)) health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation."
+"Hypnotize","Expert",3,"Air Magic","Target enemy troop of less than (50 + (power x 25)) health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation."
+"Ice Bolt","Basic",2,"Water Magic","Target enemy troop receives (10 + (power x 20)) damage."
+"Ice Bolt","Advanced",2,"Water Magic","Target enemy troop receives (20 + (power x 20)) damage."
+"Ice Bolt","Expert",2,"Water Magic","Target enemy troop receives (30 + (power x 20)) damage."
+"Implosion","Basic",5,"Earth Magic","Target enemy troop receives (100 + (power × 75)) damage."
+"Implosion","Advanced",5,"Earth Magic","Target enemy troop receives (200 + (power × 75)) damage."
+"Implosion","Expert",5,"Earth Magic","Target enemy troop receives (300 + (power × 75)) damage."
+"Inferno","Basic",4,"Fire Magic","Strikes target hex, and all hexes within two hexes for (20 + (power x 10)) damage."
+"Inferno","Advanced",4,"Fire Magic","Strikes target hex, and all hexes within two hexes for (40 + (power x 10)) damage."
+"Inferno","Expert",4,"Fire Magic","Strikes target hex, and all hexes within two hexes for (80 + (power x 10)) damage."
+"Land Mine","Basic",3,"Fire Magic","Landmines are placed in four random hexes on the battlefield. A troop stepping on a mine takes ((Power x 10) + 25) damage. Enemy creatures battling on their native terrain can see the mines and can cross them safely. To all others they are invisible."
+"Land Mine","Advanced",3,"Fire Magic","Landmines are placed in four random hexes on the battlefield. A troop stepping on a mine takes ((Power x 10) + 50) damage. Enemy creatures battling on their native terrain can see the mines and can cross them safely. To all others they are invisible."
+"Land Mine","Expert",3,"Fire Magic","Landmines are placed in four random hexes on the battlefield. A troop stepping on a mine takes ((Power x 10) + 100) damage. Enemy creatures battling on their native terrain can see the mines and can cross them safely. To all others they are invisible."
+"Lightning Bolt","Basic",2,"Air Magic","Target enemy creature receives (10 + (power x 25)) damage."
+"Lightning Bolt","Advanced",2,"Air Magic","Target enemy creature receives (20 + (power x 25)) damage."
+"Lightning Bolt","Expert",2,"Air Magic","Target enemy creature receives (50 + (power x 25)) damage."
+"Magic Arrow","Basic",1,"All","Target enemy troop receives (10 + (power x 10)) damage."
+"Magic Arrow","Advanced",1,"All","Target enemy troop receives (20 + (power x 10)) damage."
+"Magic Arrow","Expert",1,"All","Target enemy troop receives (30 + (power x 10)) damage."
+"Magic Mirror","Basic",5,"Air Magic","Enemy spells cast on targeted allied troop has a 20% chance of being redirected to a random enemy troop."
+"Magic Mirror","Advanced",5,"Air Magic","Enemy spells cast on targeted allied troop has a 30% chance of being redirected to a random enemy troop."
+"Magic Mirror","Expert",5,"Air Magic","Enemy spells cast on targeted allied troop has a 40% chance of being redirected to a random enemy troop."
+"Meteor Shower","Basic",4,"Earth Magic","Troops in target hex and adjacent hexes take (25 + (power x 25)) damage."
+"Meteor Shower","Advanced",4,"Earth Magic","Troops in target hex and adjacent hexes take (50 + (power x 25)) damage."
+"Meteor Shower","Expert",4,"Earth Magic","Troops in target hex and adjacent hexes take (100 + (power x 25)) damage."
+"Mirth","Basic",3,"Water Magic","Morale of target allied troop is increased by one."
+"Mirth","Advanced",3,"Water Magic","Morale of target allied troop is increased by two."
+"Mirth","Expert",3,"Water Magic","Morale of all allied troops is increased by two."
+"Misfortune","Basic",3,"Fire Magic","Luck of target enemy troop is reduced by one."
+"Misfortune","Advanced",3,"Fire Magic","Luck of target enemy troop is reduced by two."
+"Misfortune","Expert",3,"Fire Magic","Luck of all enemy troops is reduced by two."
+"Prayer","Basic",4,"Water Magic","Target allied troop's attack, defense, and speed (hexes per turn) ratings are increased by 2."
+"Prayer","Advanced",4,"Water Magic","Target allied troop's attack, defense, and speed (hexes per turn) ratings are increased by 4."
+"Prayer","Expert",4,"Water Magic","All allied troop's attack, defense, and speed ratings are increased by 4."
+"Precision","Basic",2,"Air Magic","Target allied troop with ranged attack has its attack rating increased by 3 when making ranged attacks."
+"Precision","Advanced",2,"Air Magic","Target allied troop with ranged attack has its attack rating increased by 6 when making ranged attacks."
+"Precision","Expert",2,"Air Magic","All allied troop with ranged attack has its attack rating increased by 6 when making ranged attacks."
+"Protection from Air","Basic",2,"Air Magic","Damage from air magic spells is reduced by 30% for target allied troop."
+"Protection from Air","Advanced",2,"Air Magic","Damage from air magic spells is reduced by 50% for target allied troop."
+"Protection from Air","Expert",2,"Air Magic","Damage from air magic spells is reduced by 50% for all allied troops."
+"Protection from Earth","Basic",3,"Earth Magic","Damage from earth magic spells is reduced by 30% for target allied troop."
+"Protection from Earth","Advanced",3,"Earth Magic","Damage from earth magic spells is reduced by 50% for target allied troop."
+"Protection from Earth","Expert",3,"Earth Magic","Damage from earth magic spells is reduced by 50% for all allied troops."
+"Protection from Fire","Basic",1,"Fire Magic","Damage from fire magic spells is reduced by 30% for target allied troop."
+"Protection from Fire","Advanced",1,"Fire Magic","Damage from fire magic spells is reduced by 50% for target allied troop."
+"Protection from Fire","Expert",1,"Fire Magic","Damage from fire magic spells is reduced by 50% for all allied troops."
+"Protection from Water","Basic",1,"Water Magic","Damage from water magic spells is reduced by 30% for target allied troop."
+"Protection from Water","Advanced",1,"Water Magic","Damage from water magic spells is reduced by 50% for target allied troop."
+"Protection from Water","Expert",1,"Water Magic","Damage from water magic spells is reduced by 50% for all allied troops."
+"Quicksand","Basic",2,"Earth Magic","Quicksand pits are placed in 4 random hexes."
+"Quicksand","Advanced",2,"Earth Magic","Quicksand pits are placed in 6 random hexes."
+"Quicksand","Expert",2,"Earth Magic","Quicksand pits are placed in 8 random hexes."
+"Remove Obstacle","Basic",2,"Air Magic","Removes one non-magic obstacle from the battlefield. Integrated obstacles, such as cliffs are not affected."
+"Remove Obstacle","Advanced",2,"Air Magic","Removes one, non-magic obstacle from the battlefield. Fire walls can be removed. Integrated obstacles, such as cliffs are not affected."
+"Remove Obstacle","Expert",2,"Air Magic","Removes one non-integrated obstacle from the battlefield. Integrated obstacles, such as cliffs are not affected."
+"Resurrection","Basic",4,"Earth Magic","Target allied troop with dead creatures has (40 + (power x 50)) health worth of creatures restored to life for the duration of the current battle."
+"Resurrection","Advanced",4,"Earth Magic","Target allied troop with dead creatures has (80 + (power x 50)) health worth of creatures restored to life permanently."
+"Resurrection","Expert",4,"Earth Magic","Target allied troop with dead creatures has (160 + (power x 50)) health worth of creatures restored to life permanently."
+"Sacrifice","Basic",5,"Fire Magic","Target non-undead troop is sacrificed (destroyed). Then another target dead troop has ((power + destroyed troop's base health + 3) x number of creatures sacrificed) in health total of creatures returned to life."
+"Sacrifice","Advanced",5,"Fire Magic","Target non-undead troop is sacrificed (destroyed). Then another target dead troop has ((power + destroyed troop's base health + 6) x number of creatures sacrificed) in health total of creatures returned to life."
+"Sacrifice","Expert",5,"Fire Magic","Target non-undead troop is sacrificed (destroyed). Then another target dead troop has ((power + destroyed troop's base health + 10) x number of creatures sacrificed) in health total of creatures returned to life."
+"Scuttle Boat","Basic",2,"Water Magic","Spell has 50% chance of destroying a boat, unless occupied."
+"Scuttle Boat","Advanced",2,"Water Magic","Spell has 75% chance of destroying a boat, unless occupied."
+"Scuttle Boat","Expert",2,"Water Magic","Spell destroys a boat, unless occupied."
+"Shield","Basic",1,"Earth Magic","Hand-to-hand damage delivered to target allied troop is reduced by 15%."
+"Shield","Advanced",1,"Earth Magic","Hand-to-hand damage delivered to target allied troop is reduced by 30%."
+"Shield","Expert",1,"Earth Magic","Hand-to-hand damage delivered to all allied troops is reduced by 30%."
+"Slayer","Basic",4,"Fire Magic","Target allied troop's attack rating is increased by eight against behemoths, dragons, and hydras."
+"Slayer","Advanced",4,"Fire Magic","Target allied troop's attack rating is increased by eight against behemoths, dragons, hydras, devils and angels."
+"Slayer","Expert",4,"Fire Magic","Target allied troop's attack rating is increased by eight against behemoths, dragons, hydras, devils, angels and titans."
+"Slow","Basic",1,"Earth Magic","Target enemy troop's speed is reduced to 25% of normal."
+"Slow","Advanced",1,"Earth Magic","Target enemy troop's speed is reduced to 50% of normal."
+"Slow","Expert",1,"Earth Magic","All enemy troops' speed ratings are reduced to 50% of normal."
+"Sorrow","Basic",4,"Earth Magic","Target enemy troop's morale rating is reduced by 1."
+"Sorrow","Advanced",4,"Earth Magic","Target enemy troop's morale rating is reduced by 2."
+"Sorrow","Expert",4,"Earth Magic","All enemy troops' morale rating is reduced by 2."
+"Stone Skin","Basic",1,"Earth Magic","Target allied troop's defense rating is increased by 3."
+"Stone Skin","Advanced",1,"Earth Magic","Target allied troop's defense rating is increased by 6."
+"Stone Skin","Expert",1,"Earth Magic","All allied troops' defense ratings are increased by 6."
+"Summon Air Elemental","Basic",5,"Air Magic","Summons a troop of air elementals containing creatures amount of (power x 2)."
+"Summon Air Elemental","Advanced",5,"Air Magic","Summons a troop of air elementals containing creatures amount of (power x 3)."
+"Summon Air Elemental","Expert",5,"Air Magic","Summons a troop of air elementals containing creatures amount of (power x 4)."
+"Summon Boat","Basic",1,"Water Magic","Summons one of your hero's boats to their current location. If none of those boats are available, then one of your other heroes' boats is summoned. Spell has a 50% chance of working. The spell fails if there are no unoccupied boats available."
+"Summon Boat","Advanced",1,"Water Magic","Summons one of your hero's boats to their current location. If none of those boats are available, then one of your other heroes' boats is summoned. Spell has a 75% chance of working. If there are no unoccupied boats available, a new one is created. There are a maximum of 64 boats allowed on the Adventure Map at one time. The spell fails if all are occupied."
+"Summon Boat","Expert",1,"Water Magic","Summons one of your hero's boats to their current location. If none of those boats are available, then one of your other heroes' boats is summoned. If there are no unoccupied boats available, a new one is created. There are a maximum of 64 boats allowed on the Adventure Map at one time. Spell has a 100% chance of working, unless all 64 boats are occupied."
+"Summon Earth Elemental","Basic",5,"Earth Magic","A troop containing (power x 2) earth elementals appears on the side of the casting player."
+"Summon Earth Elemental","Advanced",5,"Earth Magic","A troop containing (power x 3) earth elementals appears on the side of the casting player."
+"Summon Earth Elemental","Expert",5,"Earth Magic","A troop containing (power x 4) earth elementals appears on the side of the casting player."
+"Summon Fire Elemental","Basic",5,"Fire Magic","A troop containing (2 x power) fire elementals appears on the side of the casting player."
+"Summon Fire Elemental","Advanced",5,"Fire Magic","A troop containing (3 x power) fire elementals appears on the side of the casting player."
+"Summon Fire Elemental","Expert",5,"Fire Magic","A troop containing (4 x power) fire elementals appears on the side of the casting player."
+"Summon Water Elemental","Basic",5,"Water Magic","A troop containing (power x 2) water elementals appears on the side of the casting player. Only one type of elemental can be summoned."
+"Summon Water Elemental","Advanced",5,"Water Magic","A troop containing (power x 3) water elementals appears on the side of the casting player. Only one type of elemental can be summoned."
+"Summon Water Elemental","Expert",5,"Water Magic","A troop containing (power x 4) water elementals appears on the side of the casting player. Only one type of elemental can be summoned."
+"Teleport","Basic",3,"Water Magic","Target allied troop instantly moves to an unoccupied target hex. Troop cannot teleport over walls or moats."
+"Teleport","Advanced",3,"Water Magic","Target allied troop instantly moves to an unoccupied target hex. Troop cannot teleport over walls."
+"Teleport","Expert",3,"Water Magic","Target allied troop instantly moves to an unoccupied target hex."
+"Titan's Lightning Bolt","Basic",5,"Air Magic","Does 600 damage. Requires Titan's Thunder."
+"Titan's Lightning Bolt","Advanced",5,"Air Magic","Does 600 damage. Requires Titan's Thunder."
+"Titan's Lightning Bolt","Expert",5,"Air Magic","Does 600 damage. Requires Titan's Thunder."
+"Town Portal","Basic",4,"Earth Magic","Adventure Map Teleport, casting hero is teleported to the nearest allied town. 300 movement points are expended when the spell is cast."
+"Town Portal","Advanced",4,"Earth Magic","Adventure Map Teleport, casting hero may teleport to any allied town with no visiting hero. 300 movement points are expended when the spell is cast."
+"Town Portal","Expert",4,"Earth Magic","Adventure Map Teleport, any allied unoccupied town. Deducted movement points are 200 points."
+"View Air","Basic",1,"Air Magic","Displays the location of all artifacts on the view world screen."
+"View Air","Advanced",1,"Air Magic","Displays the location of all artifacts and heroes on the view world screen."
+"View Air","Expert",1,"Air Magic","Displays the location of all artifacts, heroes and towns."
+"View Earth","Basic",1,"Earth Magic","Displays the location of all loose resources on the view world screen."
+"View Earth","Advanced",1,"Earth Magic","Displays the location of all mines and loose resources on the view world screen."
+"View Earth","Expert",1,"Earth Magic","Displays the entire terrain, all mines and loose resources on the view world screen."
+"Visions","Basic",2,"All","Displays number of monsters in a wandering monster troop and whether or not the troop will offer to join the casting hero's army. Range is equal to power or three, whichever is greater."
+"Visions","Advanced",2,"All","Displays number of monsters in a wandering monster troop, whether or not the troop will offer to join the casting hero's army, an enemy hero's primary skill stats, and the composition and quantity of the hero's army. Range is (power x 2) or three, whichever is greater."
+"Visions","Expert",2,"All","Displays number of monsters in a wandering monster troop, whether or not the troop will offer to join the casting hero's army, an enemy hero's primary skill stats, the composition and quantity of the hero's army, and an enemy town's statistics and garrison composition and quantity. Range is (power x 3) or three, whichever is greater."
+"Water Walk","Basic",4,"Water Magic","The casting hero may follow a movement path across water, provided the end destination is an unoccupied location on land. Water movement may be up to 60% of the hero's normal movement."
+"Water Walk","Advanced",4,"Water Magic","The casting hero may follow a movement path across water, provided the end destination is an unoccupied location on land. Water movement may be up to 80% of the hero's normal movement."
+"Water Walk","Expert",4,"Water Magic","The casting hero may follow a movement path across water, provided the end destination is an unoccupied location on land. Water movement may be made at the hero's full, normal movement."
+"Weakness","Basic",2,"Water Magic","Target enemy troop's attack rating is reduced by three."
+"Weakness","Advanced",2,"Water Magic","Target enemy troop's attack rating is reduced by six."
+"Weakness","Expert",2,"Water Magic","All enemy troops' attack ratings are reduced by six."

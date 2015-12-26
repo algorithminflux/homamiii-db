@@ -12,6 +12,7 @@ DROP TABLE IF EXISTS population;
 DROP TABLE IF EXISTS artifact;
 DROP TABLE IF EXISTS hero;
 DROP TABLE IF EXISTS hero_specialty;
+DROP TABLE IF EXISTS spell;
 
 CREATE TABLE creature (
 	id INT NOT NULL AUTO_INCREMENT,
@@ -81,6 +82,16 @@ CREATE TABLE hero (
 	CONSTRAINT FOREIGN KEY (skill2_id) REFERENCES hero_specialty(id)
 );
 
+CREATE TABLE spell (
+	id INT NOT NULL AUTO_INCREMENT,
+	name VARCHAR(40),
+	effect_level VARCHAR(20),
+	spell_level INT,
+ 	class VARCHAR(40),
+	effect VARCHAR(400),
+	PRIMARY KEY (id)
+);
+
 -- Load creature CSV file into database
 LOAD DATA LOCAL INFILE 'csv/creature.csv' INTO TABLE creature FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, army, health, speed, attack, defense, min_damage, max_damage, special, gold_cost, resource_cost, resource_type, num_shots, can_fly, tier_level, is_upgraded_form, upgrade_id);
 
@@ -98,6 +109,9 @@ LOAD DATA LOCAL INFILE 'csv/hero-specialty.csv' INTO TABLE hero_specialty FIELDS
 
 -- Load hero CSV file into database
 LOAD DATA LOCAL INFILE 'csv/hero.csv' INTO TABLE hero FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, class, specialty, specialty_text);
+
+-- Load spell CSV file into database
+LOAD DATA LOCAL INFILE 'csv/spell.csv' INTO TABLE spell FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' IGNORE 1 ROWS (name, effect_level, spell_level, class, effect);
 
 DELIMITER //
 CREATE PROCEDURE add_hero_skill1_skill2 (IN hero_name VARCHAR(40), IN skill1_level VARCHAR(20), IN skill1 VARCHAR(40), IN skill2_level VARCHAR(20), IN skill2 VARCHAR(40))
