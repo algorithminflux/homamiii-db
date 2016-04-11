@@ -1,7 +1,7 @@
 # homamiii-db
 Use MySQL 5.7 with this project. Here's is pretty straightforward way of getting it on a Windows machine. If you're using Linux, I'm pretty sure you know what you're doing, and this step should be a breeze for you. 
 
-*NOTE: The tutorial suggests installing many MySQL components, but I recommend just installing the 'MySQL Server' componentas the rest is just unnecessary for this project.*
+*NOTE: The tutorial suggests installing many MySQL components, but I recommend just installing the 'MySQL Server' component as the rest are just unnecessary for this project.*
 
 [Install MySQL on Windows Using MySQL Installer](http://www.mysqltutorial.org/install-mysql/)
 
